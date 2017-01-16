@@ -5,10 +5,10 @@
 Index
 ####1. What is Stock?
 ####2. Types of Stock
-####2. Basic terms 
-####3. Current trends in the Korean market 
-####4. Related figures (George Soros, Warren Buffett, and others )
-####5. Markov Chain and its application in Stock-market (advanced)
+####3. Basic terms 
+####4. Current trends in the Korean market 
+####5. Related figures (George Soros, Warren Buffett, and others )
+####6. Markov Chain and its application in Stock-market (advanced)
 ----
 ####1. What is Stock?
 [Reference site](https://en.wikipedia.org/wiki/Stock)
@@ -18,7 +18,7 @@ It should be noted that whether you say shares, equity, or stock, it all means t
 
 ```
 In the easiest words, 
-Stock is 
+Stock means fraction of ownership of a company. 
 ```
 
 Then why is stock important? 
@@ -34,8 +34,8 @@ Then why is stock important?
 [Reference site](http://www.timothysykes.com/2013/06/trading-terms-you-need-to-know/)
 > *Understanding basic terms and definition is the essential key to success in any field.*
 
-
 > *It is like the act of assembling the smallest blocks to build a castle.*
+   
    *by Young-Min Choi*
 
 
