@@ -5,11 +5,11 @@
 Index
 ####1. What is Stock?
 ####2. Types of Stock
-####3. Basic terms 
-####4. The causes of change in stock prices 
-####5. Current trends in the Korean market 
-####6. Related figures (George Soros, Warren Buffett, and others )
-####7. Markov Chain and its application in Stock-market (advanced)
+####3. Basic Terms 
+####4. The Causes of Change in Stock Prices 
+####5. Current Trends in the Korean Market 
+####6. Related Figures (George Soros, Warren Buffett, and others )
+####7. Markov Chain and its Application in Stock Market __(advanced)__
 ----
 ####1. What is Stock?
 [Reference site](https://en.wikipedia.org/wiki/Stock)
@@ -93,17 +93,22 @@ Below is the list of basic terms listed in alphabetical order.
 - Yield: This usually refers to the measure of the return on an investment that is received from the payment of a dividend. This is determined by dividing the annual dividend amount by the price paid for the stock. If you bought stock XYZ for $40-a-share and it pays a $1.00-per-year dividend, you have a “yield” of 2.5%
 
 ---- 
-#### 4. The causes of change in stock prices 
+#### 4. The Causes of Change in Stock Prices 
 
 There are many factors and theories regarding this subject. 
-In that regard, I would like to introduce a few theories to understand the up and down of stock price. 
+However, 4 factors mentioned below are fundamental to changing prices of stock. 
 
+- New information
+- Uncertainty
+- Psychological Factors
+   + Fear
+   + Greed
 - Supply and Demand
 
 If more people want to buy a stock (demand) than sell it (supply), then the price moves up. Conversely, if more people wanted to sell a stock than buy it, there would be greater supply than demand, and the price would fall.
 
-Understanding supply and demand is easy. What is difficult to comprehend is what makes people like a particular stock and dislike another stock. This comes down to figuring out what news is positive for a company and what news is negative. There are many answers to this problem and just about any investor you ask has their own ideas and strategies.
-
 ![Supply and Demand](https://preetamsushistory.wikispaces.com/file/view/Supply-and-Demand-Graph.png/339495246/Supply-and-Demand-Graph.png)
+
+Understanding supply and demand is easy. *What is difficult to comprehend is what makes people like a particular stock and dislike another stock.* This comes down to figuring out what news is positive for a company and what news is negative. There are many answers to this problem and just about any investor you ask has their own ideas and strategies.
 
 - 
