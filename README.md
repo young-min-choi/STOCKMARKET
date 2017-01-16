@@ -6,9 +6,10 @@ Index
 ####1. What is Stock?
 ####2. Types of Stock
 ####3. Basic terms 
-####4. Current trends in the Korean market 
-####5. Related figures (George Soros, Warren Buffett, and others )
-####6. Markov Chain and its application in Stock-market (advanced)
+####4. The causes of change in stock prices 
+####5. Current trends in the Korean market 
+####6. Related figures (George Soros, Warren Buffett, and others )
+####7. Markov Chain and its application in Stock-market (advanced)
 ----
 ####1. What is Stock?
 [Reference site](https://en.wikipedia.org/wiki/Stock)
@@ -23,6 +24,7 @@ Stock means fraction of ownership of a company.
 
 Then why is stock important? 
 
+----
 ####2.Types of Stock
 
 |Common | Preferred|
@@ -30,6 +32,7 @@ Then why is stock important?
 | Common stock is, well, common.|Fixed guaranteed dividend, rights to be paid off first|
 
 
+----
 ####3. Basic terms   
 [Reference site](http://www.timothysykes.com/2013/06/trading-terms-you-need-to-know/)
 > *Understanding basic terms and definition is the essential key to success in any field.*
@@ -88,3 +91,11 @@ Below is the list of basic terms listed in alphabetical order.
 - Volume: The number of shares of stock traded during a particular time period, normally measured in average daily trading volume.
 
 - Yield: This usually refers to the measure of the return on an investment that is received from the payment of a dividend. This is determined by dividing the annual dividend amount by the price paid for the stock. If you bought stock XYZ for $40-a-share and it pays a $1.00-per-year dividend, you have a “yield” of 2.5%
+
+---- 
+#### 4. The causes of change in stock prices 
+
+There are many factors and theories regarding this subject. 
+In that regard, I would like to introduce a few theories to understand the up and down of stock price. 
+
+- 
