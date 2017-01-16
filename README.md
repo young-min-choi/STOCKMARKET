@@ -1,5 +1,5 @@
 #hangle ee an dae yo
-#Deep Bbak 
+#Deep Bbak...
 
 # Understanding the Basics of Stockmarket
 Index
@@ -33,7 +33,9 @@ Then why is stock important?
 ####3. Basic terms   
 [Reference site](http://www.timothysykes.com/2013/06/trading-terms-you-need-to-know/)
 > *Understanding basic terms and definition is the essential key to success in any field.*
-> *It is like the act of assembling the smallest blocks to build a castle. 
+
+
+> *It is like the act of assembling the smallest blocks to build a castle.*
    *by Young-Min Choi*
 
 
