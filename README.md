@@ -98,4 +98,12 @@ Below is the list of basic terms listed in alphabetical order.
 There are many factors and theories regarding this subject. 
 In that regard, I would like to introduce a few theories to understand the up and down of stock price. 
 
+- Supply and Demand
+
+If more people want to buy a stock (demand) than sell it (supply), then the price moves up. Conversely, if more people wanted to sell a stock than buy it, there would be greater supply than demand, and the price would fall.
+
+Understanding supply and demand is easy. What is difficult to comprehend is what makes people like a particular stock and dislike another stock. This comes down to figuring out what news is positive for a company and what news is negative. There are many answers to this problem and just about any investor you ask has their own ideas and strategies.
+
+![Supply and Demand](https://preetamsushistory.wikispaces.com/file/view/Supply-and-Demand-Graph.png/339495246/Supply-and-Demand-Graph.png)
+
 - 
