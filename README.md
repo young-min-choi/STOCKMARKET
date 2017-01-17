@@ -145,7 +145,8 @@ In the US, home loans were guaranteed by the Federal government.
 Many national governments saw home ownership as a positive outcome
 and so introduced grants for first-time home buyers and other financial subsidies, 
 such as the exemption of a primary residence from capital gains taxation. 
-These further encouraged house purchases, leading to further price rises and further relaxation of lending standards.
+These further encouraged house purchases, 
+leading to further price rises and further relaxation of lending standards.
 ``` 
 
 Got it?
