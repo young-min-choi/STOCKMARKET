@@ -157,9 +157,9 @@ The point is that since markets are reflexive, our beliefs about them directly a
 
 Here is Soros on the subject:
 
->Financial markets, far from accurately reflecting all the available knowledge, always provide a distorted view of reality. This is the >principle of fallibility. The degree of distortion may vary from time to time. Sometimes it’s quite insignificant, at other times it is >quite pronounced.
+>Financial markets, far from accurately reflecting all the available knowledge, always provide a distorted view of reality. This is the principle of fallibility. The degree of distortion may vary from time to time. Sometimes it’s quite insignificant, at other times it is quite pronounced.
 
->Every bubble has two components: an underlying trend that prevails in reality and a misconception relating to that trend. When a ?>positive feedback develops between the trend and the misconception, a boom-bust process is set in motion. The process is liable to be >tested by negative feedback along the way, and if it is strong enough to survive these tests, both the trend and the misconception will >be reinforced.
+>Every bubble has two components: an underlying trend that prevails in reality and a misconception relating to that trend. When a ?positive feedback develops between the trend and the misconception, a boom-bust process is set in motion. The process is liable to be tested by negative feedback along the way, and if it is strong enough to survive these tests, both the trend and the misconception will be reinforced.
 
 What Soros is saying is that markets are in a constant state of divergence from reality — __meaning, prices are always wrong.__ Sometimes this divergence is miniscule and hardly perceptible. Other times this divergence is large, due to feedback loop drivers. These are the boom and bust processes. And it is these large divergences that we as traders want to seek out, because that’s where the money is.
 
