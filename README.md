@@ -11,7 +11,7 @@ Index
 ####6. Reflexibility Theory by George Soros
 ####7. Markov Chain and its Application in Stock Market __(advanced)__
 ----
-####1. What is Stock?
+###1. What is Stock?
 [Reference site](https://en.wikipedia.org/wiki/Stock)
 The __Stock__ (also capital stock) of a corporation is constituted of the equity stock of its owners. A single share of the stock represents fractional ownership of the corporation in proportion to the total number of shares. In liquidation, __the stock represents the residual assets of the company__ that would be due to stockholders after discharge of all senior claims such as secured and unsecured debt. Stockholders' equity cannot be withdrawn from the company in a way that is intended to be detrimental to the company's creditors.
 
@@ -33,7 +33,7 @@ Then why is stock important?
 
 
 ----
-####3. Basic terms   
+###3. Basic terms   
 [Reference site](http://www.timothysykes.com/2013/06/trading-terms-you-need-to-know/)
 > *Understanding basic terms and definition is the essential key to success in any field.*
 
@@ -93,7 +93,7 @@ Below is the list of basic terms listed in alphabetical order.
 - Yield: This usually refers to the measure of the return on an investment that is received from the payment of a dividend. This is determined by dividing the annual dividend amount by the price paid for the stock. If you bought stock XYZ for $40-a-share and it pays a $1.00-per-year dividend, you have a “yield” of 2.5%
 
 ---- 
-#### 4. The Causes of Change in Stock Prices 
+### 4. The Causes of Change in Stock Prices 
 
 There are many factors and theories regarding this subject. 
 However, 4 factors mentioned below are fundamental to changing prices of stock. 
@@ -113,17 +113,26 @@ Understanding supply and demand is easy. *What is difficult to comprehend is wha
 
 - 
 ----
-#### 5. Current Trend in the Korean Market 
+### 5. Current Trend in the Korean Market 
 
 
 ----
-#### 6. Reflexibility Theory by George Soros
+### 6. Reflexibility Theory by George Soros
+
+Here, I will explain: 
+- A little bit of his personal background 
+- The General Theory of Reflexibility 
+- Boom-Bust Theory 
+
+##### Personal Background 
 
 George Soros is one of the most influential figures in the stock market. 
 According to [Wikipedia](https://en.wikipedia.org/wiki/George_Soros#Wealth), 
 In July 2014 Forbes listed Soros as the 27th richest person in the world, the world's richest hedge-fund manager, and 7th on its list of the 400 wealthiest Americans, with a net worth estimated at $23 billion.
 
 ![George Soros](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/George_Soros_47th_Munich_Security_Conference_2011_crop.jpg/230px-George_Soros_47th_Munich_Security_Conference_2011_crop.jpg)
+
+##### The General Theory of Reflexibility 
 
 He has stated that his own financial success has been attributable to the edge accorded by his understanding of the action of the reflexive effect. It emphasizes the imperfect understanding of facts by participants as they are part of the situation and repudiates the fundamental assumption made by Classical Economics. Reflexivity is based on three main ideas:
 
@@ -182,3 +191,6 @@ leading to further price rises and further relaxation of lending standards.
 ``` 
 
 Got it?
+
+##### Boom-Bust Theory 
+
