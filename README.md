@@ -8,7 +8,7 @@ Index
 ####3. Basic Terms 
 ####4. The Causes of Change in Stock Prices 
 ####5. Current Trends in the Korean Market 
-####6. Related Figures (George Soros, Warren Buffett, and others )
+####6. Reflexibility Theory by George Soros
 ####7. Markov Chain and its Application in Stock Market __(advanced)__
 ----
 ####1. What is Stock?
@@ -112,3 +112,29 @@ If more people want to buy a stock (demand) than sell it (supply), then the pric
 Understanding supply and demand is easy. *What is difficult to comprehend is what makes people like a particular stock and dislike another stock.* This comes down to figuring out what news is positive for a company and what news is negative. There are many answers to this problem and just about any investor you ask has their own ideas and strategies.
 
 - 
+----
+#### 5. Current Trend in the Korean Market 
+
+
+----
+#### 6. Reflexibility Theory by George Soros
+
+George Soros is one of the most influential figures in the stock market. 
+
+![George Soros](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/George_Soros_47th_Munich_Security_Conference_2011_crop.jpg/230px-George_Soros_47th_Munich_Security_Conference_2011_crop.jpg)
+
+He has stated that his own financial success has been attributable to the edge accorded by his understanding of the action of the reflexive effect. It emphasizes the imperfect understanding of facts by participants as they are part of the situation and repudiates the fundamental assumption made by Classical Economics. Reflexivity is based on three main ideas:
+
+1. Reflexivity is best observed under special conditions where investor bias grows and spreads throughout the investment arena. Examples of factors that may give rise to this bias include (a) equity leveraging or (b) the trend-following habits of speculators.
+
+2. Reflexivity appears intermittently since it is most likely to be revealed under certain conditions; i.e., the character of the equilibrium process is best considered in terms of probabilities.
+
+3. Investors' observation of and participation in the capital markets may at times influence valuations and fundamental conditions or outcomes.
+
+A recent example of reflexivity in modern financial markets is that of the debt and equity of housing markets. 
+
+```
+Lenders began to make more money available to more people in the 1990s to buy houses. More people bought houses with this larger amount of money, thus increasing the prices of these houses. Lenders looked at their balance sheets which not only showed that they had made more loans, but that their equity backing the loans – the value of the houses, had gone up (because more money was chasing the same amount of housing, relatively). Thus they lent out more money because their balance sheets looked good, and prices rose higher still.
+
+This was further amplified by public policy. In the US, home loans were guaranteed by the Federal government. Many national governments saw home ownership as a positive outcome and so introduced grants for first-time home buyers and other financial subsidies, such as the exemption of a primary residence from capital gains taxation. These further encouraged house purchases, leading to further price rises and further relaxation of lending standards.
+``` 
