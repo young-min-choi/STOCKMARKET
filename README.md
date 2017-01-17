@@ -120,6 +120,8 @@ Understanding supply and demand is easy. *What is difficult to comprehend is wha
 #### 6. Reflexibility Theory by George Soros
 
 George Soros is one of the most influential figures in the stock market. 
+According to [Wikipedia](https://en.wikipedia.org/wiki/George_Soros#Wealth), 
+In July 2014 Forbes listed Soros as the 27th richest person in the world, the world's richest hedge-fund manager, and 7th on its list of the 400 wealthiest Americans, with a net worth estimated at $23 billion.
 
 ![George Soros](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/George_Soros_47th_Munich_Security_Conference_2011_crop.jpg/230px-George_Soros_47th_Munich_Security_Conference_2011_crop.jpg)
 
@@ -130,6 +132,36 @@ He has stated that his own financial success has been attributable to the edge a
 2. Reflexivity appears intermittently since it is most likely to be revealed under certain conditions; i.e., the character of the equilibrium process is best considered in terms of probabilities.
 
 3. Investors' observation of and participation in the capital markets may at times influence valuations and fundamental conditions or outcomes.
+
+The idea is centered around there being two realities; objective realities and subjective realities.
+
+Objective realities are true regardless of what participants think about them. For example, if I remark that it’s snowing outside and it is in fact snowing outside, then that is an objective truth. It would be snowing outside whether I said or thought otherwise — I could say it’s sunny but that would not make it sunny, it would still be snowing.
+
+Subjective realities on the other hand are affected by what participants think about them. Markets fall into this category. Since perfect information does not exist (ie, we can’t predict the future and it’s impossible to know all the variables moving markets at any given time) we make our best judgements as to what assets (stocks, futures, options etc) should be valued at. Our collective thinking is what moves markets and produces winners and losers. This means that what we think about reality affects reality itself. And that reality in turn affects our thinking once again.
+
+Have I lost you? Stay with me, it’s not as complicated as it sounds.
+
+Take a highflying tech stock like Amazon (AMZN) for example. The company has made little in the way of income (in relation to its market cap) for the majority of its existence (over 15 years) but the stock has continued to soar. This is happening because people formed a number of positive beliefs about the stock. These beliefs could be that the company will make tons of money someday because it’s innovative, eating market share, or has a secret profit switch it can flip whenever it wants. Or maybe people continue to buy the stock because it’s gone up for a long time and so they assume it will continue to go up.
+
+In truth it’s probably many of these reasons that encourage investors to continue piling into a profitless company. But the reasons aren’t important. What’s important is that these positive beliefs have directly affected Amazon’s subjective reality.
+
+Here are just a few examples of how Amazon’s fundamentals have been positively affected by investors’ beliefs:
+
+The high stock price has allowed the company to receive cheaper financing costs
+And attract exceptional talent which in turn has lead to increased growth
+And hide costs by including stock options as a large portion of employee compensation
+And be unconcerned with profits, enabling them to drastically undercut competition and steal market share
+It’s not difficult to imagine another reality in which investors collectively had a more negative or neutral belief about the company. Amazon may look very different today. Forced to focus on profits — like many businesses — Amazon perhaps would not have had the explosive growth its experienced. Maybe it never would have expanded outside of selling books. Maybe a competitor would have run it out of business.
+
+The point is that since markets are reflexive, our beliefs about them directly affect the underlying fundamentals and vice-versa. And sometimes the reflexive mechanism forms a powerful feedback loop which causes prices and expectations to drastically diverge from reality.
+
+Here is Soros on the subject:
+
+>Financial markets, far from accurately reflecting all the available knowledge, always provide a distorted view of reality. This is the >principle of fallibility. The degree of distortion may vary from time to time. Sometimes it’s quite insignificant, at other times it is >quite pronounced.
+
+>Every bubble has two components: an underlying trend that prevails in reality and a misconception relating to that trend. When a ?>positive feedback develops between the trend and the misconception, a boom-bust process is set in motion. The process is liable to be >tested by negative feedback along the way, and if it is strong enough to survive these tests, both the trend and the misconception will >be reinforced.
+
+What Soros is saying is that markets are in a constant state of divergence from reality — __meaning, prices are always wrong.__ Sometimes this divergence is miniscule and hardly perceptible. Other times this divergence is large, due to feedback loop drivers. These are the boom and bust processes. And it is these large divergences that we as traders want to seek out, because that’s where the money is.
 
 A recent example of reflexivity in modern financial markets is that of the debt and equity of housing markets. 
 
