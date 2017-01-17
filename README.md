@@ -124,7 +124,7 @@ Here, I will explain:
 - The General Theory of Reflexibility 
 - Boom-Bust Theory 
 
-##### Personal Background 
+#### Personal Background 
 
 George Soros is one of the most influential figures in the stock market. 
 According to [Wikipedia](https://en.wikipedia.org/wiki/George_Soros#Wealth), 
@@ -132,7 +132,7 @@ In July 2014 Forbes listed Soros as the 27th richest person in the world, the wo
 
 ![George Soros](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/George_Soros_47th_Munich_Security_Conference_2011_crop.jpg/230px-George_Soros_47th_Munich_Security_Conference_2011_crop.jpg)
 
-##### The General Theory of Reflexibility 
+#### The General Theory of Reflexibility 
 
 He has stated that his own financial success has been attributable to the edge accorded by his understanding of the action of the reflexive effect. It emphasizes the imperfect understanding of facts by participants as they are part of the situation and repudiates the fundamental assumption made by Classical Economics. Reflexivity is based on three main ideas:
 
@@ -192,5 +192,16 @@ leading to further price rises and further relaxation of lending standards.
 
 Got it?
 
-##### Boom-Bust Theory 
+#### Boom-Bust Theory 
 
+The typical boom-bust plays out in eight stages:
+1. A prevailing bias and a prevailing trend.
+2. Acceleration of the trend.
+3. A period of testing and price setbacks.
+4. If the bias and price survive the testing, then a point is reached where participants no longer believe the usual rules apply.
+5. Market values become unhinged from reality.
+6. A twilight period occurs where participants continue to play the game though theyno longer believe in it.
+7. A tipping point is reached where the bias is reversed.
+8. The crash ensues.
+
+![Boom-Bust](https://wdongli.files.wordpress.com/2014/03/bubble_maniacyclechart.png?w=470)
