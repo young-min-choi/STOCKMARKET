@@ -135,21 +135,16 @@ A recent example of reflexivity in modern financial markets is that of the debt 
 
 ```
 Lenders began to make more money available to more people in the 1990s to buy houses. 
-
 More people bought houses with this larger amount of money, thus increasing the prices of these houses. 
-
 Lenders looked at their balance sheets which not only showed that they had made more loans, 
-
-but that their equity backing the loans – the value of the houses, had gone up (because more money was chasing the same amount of housing, relatively). 
-
+but that their equity backing the loans – the value of the houses, had gone up 
+(because more money was chasing the same amount of housing, relatively). 
 Thus they lent out more money because their balance sheets looked good, and prices rose higher still.
-
 This was further amplified by public policy. 
-
 In the US, home loans were guaranteed by the Federal government. 
-
-Many national governments saw home ownership as a positive outcome and so introduced grants for first-time home buyers and other financial subsidies, such as the exemption of a primary residence from capital gains taxation. 
-
+Many national governments saw home ownership as a positive outcome
+and so introduced grants for first-time home buyers and other financial subsidies, 
+such as the exemption of a primary residence from capital gains taxation. 
 These further encouraged house purchases, leading to further price rises and further relaxation of lending standards.
 ``` 
 
