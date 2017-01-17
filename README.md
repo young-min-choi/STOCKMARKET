@@ -195,6 +195,7 @@ Got it?
 #### Boom-Bust Theory 
 
 The typical boom-bust plays out in eight stages:
+
 1. A prevailing bias and a prevailing trend.
 2. Acceleration of the trend.
 3. A period of testing and price setbacks.
