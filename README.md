@@ -10,7 +10,8 @@ Index
 ####4. The Causes of Change in Stock Prices 
 ####5. Current Trends in the Korean Market 
 ####6. Reflexibility Theory by George Soros
-####7. Markov Chain and its Application in Stock Market __(advanced)__
+####7. About Gold
+####8. Markov Chain and its Application in Stock Market __(advanced)__
 ----
 ###1. What is Stock?
 [Reference site](https://en.wikipedia.org/wiki/Stock)
@@ -131,6 +132,8 @@ George Soros is one of the most influential figures in the stock market.
 According to [Wikipedia](https://en.wikipedia.org/wiki/George_Soros#Wealth), 
 In July 2014 Forbes listed Soros as the 27th richest person in the world, the world's richest hedge-fund manager, and 7th on its list of the 400 wealthiest Americans, with a net worth estimated at $23 billion.
 
+__He does not believe that market is efficient.__
+
 ![George Soros](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/George_Soros_47th_Munich_Security_Conference_2011_crop.jpg/230px-George_Soros_47th_Munich_Security_Conference_2011_crop.jpg)
 
 #### The General Theory of Reflexibility 
@@ -207,3 +210,13 @@ The typical boom-bust plays out in eight stages:
 8. The crash ensues.
 
 ![Boom-Bust](https://wdongli.files.wordpress.com/2014/03/bubble_maniacyclechart.png?w=470)
+
+---
+
+####7. About Gold
+
+Following is the Gold Price Chart in the Korean market. 
+![img](https://ssl.pstatic.net/imgstock/chart3/gold/3month.png?sidcode=1484698811356)
+
+What affects the price of Gold? Gold is one of the prominent areas that Soros's Theory can be applied. 
+What makes gold even more subject to "reflexive" processes than most other investments is that __there are no market forces that tend to pull it back down.__
