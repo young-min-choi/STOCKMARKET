@@ -1,7 +1,3 @@
-
-#hangle ee an dae yo
-#Deep Bbak...
-
 # Understanding the Basics of Stockmarket
 Index
 ####1. What is Stock?
@@ -135,6 +131,13 @@ In July 2014 Forbes listed Soros as the 27th richest person in the world, the wo
 __He does not believe that market is efficient.__
 
 ![George Soros](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/George_Soros_47th_Munich_Security_Conference_2011_crop.jpg/230px-George_Soros_47th_Munich_Security_Conference_2011_crop.jpg)
+
+####Chellenging Assumptions and Hypothesis 
+
+Science and Theories are inherently in hypothesis. 
+Although making assumptions allows us to simplify complicated situations, it leads us to a skewed fact. Based on assumptions, getting the fact is almost impossible. 
+
+
 
 #### The General Theory of Reflexibility 
 
