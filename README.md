@@ -1,3 +1,4 @@
+<span style="color: red; font-weight:500; font-size:30px; text-alignment:center">주식 종목 추천받습니다.</span> 
 # Understanding the Basics of Stockmarket
 Index
 ####1. What is Stock?
@@ -8,6 +9,7 @@ Index
 ####6. Reflexibility Theory by George Soros
 ####7. About Gold
 ####8. Markov Chain and its Application in Stock Market __(advanced)__
+####9. 주식 종목 추천 
 ----
 ###1. What is Stock?
 [Reference site](https://en.wikipedia.org/wiki/Stock)
