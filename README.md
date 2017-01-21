@@ -1,15 +1,16 @@
 <span style="color: red; font-weight:500; font-size:30px; text-alignment:center">주식 종목 추천받습니다.</span> 
 # Understanding the Basics of Stockmarket
 Index
-####1. What is Stock?
-####2. Types of Stock
-####3. Basic Terms 
+####1. What is Stock? (주식이란?)
+####2. Types of Stock (주식의 종류)
+####3. Basic Terms (주식기초용어)
 ####4. The Causes of Change in Stock Prices 
 ####5. Current Trends in the Korean Market 
 ####6. Reflexibility Theory by George Soros
-####7. About Gold
+####7. 금에 관하여 
 ####8. Markov Chain and its Application in Stock Market __(advanced)__
-####9. 주식 종목 추천 
+####9. 한진해운사태 
+####10. 주식 종목 추천 
 ----
 ###1. What is Stock?
 [Reference site](https://en.wikipedia.org/wiki/Stock)
@@ -21,6 +22,10 @@ It should be noted that whether you say shares, equity, or stock, it all means t
 In the easiest words, 
 Stock means fraction of ownership of a company. 
 ```
+
+주식이란 2가지 의미로 정의할 수 있다. 주식은 어떤 기업에 대한 소유권의 일부를 가진다는 의미가 될 수 있으며, 두 번째로는 어떤 기업의 자산에서 모든 채무를 변제한 이후 남은 잉여 수익에 대한 지분을 의미하는 것이기도 하다. 
+
+개인이 어떤 기업에 투자를 하고 싶어도 자본의 한계 때문에 그 기업을 통채로 살 수는 없다. 그러므로 그 기업의 가치를 잘개 쪼개어 개인에게 파는 것이다. 
 
 Then why is stock important? 
 
@@ -34,13 +39,39 @@ Then why is stock important?
 
 ----
 ###3. Basic terms   
-[Reference site](http://www.timothysykes.com/2013/06/trading-terms-you-need-to-know/)
-> *Understanding basic terms and definition is the essential key to success in any field.*
 
+> *Understanding basic terms and definition is the essential key to success in any field.*
 > *It is like the act of assembling the smallest blocks to build a castle.*
    
    *by Young-Min Choi*
 
+Jan 21, 2017추가 
+
+- 자산(capital): 내가 가진 모든 재산을 말한다. __부채를 포함한다.__
+
+- 자본(asset, equity): 자본은 다른 말로는 순자산이라고 한다. 부채를 제외한 오로지 내 소유의 재산을 의미한다. 
+
+- 증권(securities): 증권은 "유가증권"의 준말이다. "유가"란 가격을 가진다는 말이 된다. 그러므로 유가증권은 가격이 있는 증권이라는 말이다. 증권은 채권이나 주식 등 재산적 가치가 있는 문서를 의미한다. 그러나 재산적 가치가 있는 문서라는 정의는 궁색하다. 그렇다면 기업의 기획서같은 것도 증권에 포함될 여지가 있기 때문이다. 
+한경의 다음과 같은 증권에 대한 정의가 가장 정확하다고 생각된다. 
+```
+주식증서, 채권, 기타 보증부채 또는 이윤을 추구하는 기업의 자산분배나 이익 분배에 참가할 것을 소유자에게 부여하는 권리.
+돈의 회수나 지급을 확인하는 증서. - 한경 -
+```
+
+- 무가증권: 가치가 없는 증권을 말한다. 
+
+-  컨센서스(Consensus): 주식 전문가(다수의 금융기관, 펀드매니저 등)들이 주식의 핵심적인 4요소(종목, 주가, 물량, 매매시점)에 대해 내린 종합적인 투자의견이다. 각 애널리스트와 증권사마다 상이한 투자의견을 가지고 있으나 평균적인 의견으로서 주가 변동의 근거가 될 수도 있다. 
+
+- 펀머멘탈(Fundamental): 주로 어떤 기업이나 산업군의 경제적 가치, 능력, 잠재력에 관한 지수들을 의미하는 것이다. 그 기업이 얼마나 재무적으로 건전하며 앞으로 성장할 가능성이 있는지를 판단하여 투자하는 것을 펀더멘탈 투자이다. 이에 대비하여 차트를 분석하여 과거의 경향을 통해 투자하는 것을 모멘텀 투자라고 한다. 펀더멘탈 투자는 모멘텀 투자에비해 더 장기적인 관점에서 진행되는 경우가 많다. 
+
+- 벨류에이션(Valuation): 어떤 기업의 가치를 평가하는 일. 어떤 기업의 재산적 가치를 평가하는 방법은 매우 다양하다. 
+
+- 유한책임(limited liability): 영문 표현을 봐도 느낌이 팍팍오지 않는가? 책임이 제한적이라는 뜻이다. 
+
+추가적으로 영어로 기본적인 주식용어들을 살펴봤다. 
+__읽어보길 적극 권장한다.__
+
+[Reference site](http://www.timothysykes.com/2013/06/trading-terms-you-need-to-know/)
 
 Below is the list of basic terms listed in alphabetical order. 
 
@@ -75,6 +106,7 @@ Below is the list of basic terms listed in alphabetical order.
 - Order: An investor’s bid to buy or sell a certain amount of stock or option contracts. You have to put an order in to buy or sell 100 shares of stock.
 
 - Portfolio: A collection of investments owned by an investor. You can have as little as one stock in a portfolio to an infinite amount of stocks.
+어떤 투자가의 모든 투자종목의 그룹. 포트폴리오는 최소 1개로 이루어질수도 있고 무수히 많은 종목으로 이루어질 수도 있다. 
 
 - Quote: Information on a stock’s latest trading  price. This is sometimes delayed by 20 minutes unless you are using an actual broker trading platform.
 
