@@ -13,8 +13,9 @@ Index
 ####5. The Causes of Change in Stock Prices  
 ####6. Reflexibility Theory by George Soros
 ####7. 소로스 이론으로 살펴보는 한진해운사태 
-####8. Markov Chain and its Application to Stock Market __(advanced)__
-####9. 주식 종목 추천 
+####8. 주식 종목 추천 
+####9. Markov Chain and its Application to Stock Market __(advanced)__
+
 ----
 ###1. What is Stock?
 
@@ -300,11 +301,27 @@ He has stated that his own financial success has been attributable to the edge a
 
 3. Investors' observation of and participation in the capital markets may at times influence valuations and fundamental conditions or outcomes.
 
+<p style="color:deeppink">
+1. 재귀성은 투자자의 편견이 커지고 투자영역으로 확대되는 특정한 조건에서 관찰된다. 편견을 강화할 수 있는 요소로는 (1) 자산 레버리지 혹은 (2) 투기자들이 경향을 쫒는 상황이라고 할 수 있다. 
+
+2. 재귀성은 드문드문 출현하게 된다. 
+
+3. 주식시장의 참여자와 투자자들의 관측은 간혹 밸류에이션과 근본적인 조건에 영향을 줄 수있다. 
+</p>
+
 The idea is centered around there being two realities; objective realities and subjective realities.
 
 Objective realities are true regardless of what participants think about them. For example, if I remark that it’s snowing outside and it is in fact snowing outside, then that is an objective truth. It would be snowing outside whether I said or thought otherwise — I could say it’s sunny but that would not make it sunny, it would still be snowing.
 
 Subjective realities on the other hand are affected by what participants think about them. Markets fall into this category. Since perfect information does not exist (ie, we can’t predict the future and it’s impossible to know all the variables moving markets at any given time) we make our best judgements as to what assets (stocks, futures, options etc) should be valued at. Our collective thinking is what moves markets and produces winners and losers. This means that what we think about reality affects reality itself. And that reality in turn affects our thinking once again.
+
+<p style="color:deeppink">
+이 아이디어의 핵심은 두가지 현실이 존재한다는 것에서 시작한다. 객관적 사실과 주관적 사실이 존재한다는 것이다.
+
+객관적 사실은 참여자들의 생각에 상관없이 진실이다. 예를 들어 밖에 눈이 오는 것은 객관적 사실이다. 내가 밖에 햇볕이 내린다고 할수도 있지만 계속 눈이 내릭 된다. 
+
+주관적 사실은 반대로 참가자들의 생각에 영향을 받는 사실을 말한다. 시장은 여기에 속한다. 완벽한 정보란 존재하지 않기 떄문에 우리는 최고의 추측을 하기 위해 노력한다. 우리의 집단적 생각은 시장을 움직이고 승자와 패자를 양산한다. 이는 우리가 진실에 대해 생각하는 바가 진실에 영향을 준다는 것이다. 또한 진실은 우리의 사고과정을 반대로 바꾸게 된다. 
+</p>
 
 Have I lost you? Stay with me, it’s not as complicated as it sounds.
 
@@ -391,7 +408,7 @@ The typical boom-bust plays out in eight stages:
 
 
 ---
-####9. 종목추천
+####8. 종목추천
 
 <span style="color:tomato;">태양광 분야 (C+) </span>
 - 지난 5년간 중국 태양광 업체들의 공급과잉 현상이 지속될지 여부가 관건.
@@ -411,13 +428,44 @@ The typical boom-bust plays out in eight stages:
 1) 신성솔라에너지보다 변동성(Volitility)이 높음 
 2) 신성솔라에너지의 1/3수준의 시가총액 (블루칩과는 거리가 멀음) 
 
-<span style="color:tomato;">IoT 분야 (A) </span>
+<span style="color:tomato;">IoT 분야 (A0) </span>
 
+- 통신 3사가 iot전용망 경쟁을 본격화 할것으로 기대. 
+- 스마트헬스의 경우 스마트밴드, 체중계, 체온계, 혈압계 위주의 전통적인 측정기기는 100% 대체 수준이라고 보인다. 핏빗, 런타스틱 등 다양한 회사들은 이제 기존의 측정, 운동에서 웰니스로 무게 중심을 옮기고 있다. 스마트 약통, 스마트 건강 보조기구, 스마트 수면 등이 그것이다. 아마 2017년에는 이런 제품을 더욱 자주 볼 것.
+- IT 거인 직접 참여가 기대됨. 국내에서는 삼성, LG이 해외에서는 MS, Apple 등 기존 IT 거인들의 IoT 제품 및 서비스 시작 기대되고 있다. Naive, Kakao 등의 행보 주목할 필요가 있음. 
+- **보안이 중요한 이슈로 부상할 것으로 기대됨. **
 
-눈 여겨볼 기업 
+- 눈 여겨볼 기업 
+	- 코콤
+	- 아이엔
+	- 비츠로시스 
+	- 에이택 
+
 
 ---
+####9. Markov Chain and its Application to Stock Market __(advanced)__
 
+마르코프 체인:  확률 과정의 일종으로, __각 시행의 결과가 바로 앞의 시행의 결과에만 영향을 받는__ 일련의 확률적 시행을 말한다. 마르코프 과정(Markov process)이라고도 한다.
+
+![rmfla](https://sites.google.com/site/machlearnwiki/_/rsrc/1388728400812/RBM/markov-chain/3state_markov.jpg?height=230&width=320)
+
+마르코프 체인을 도식화한 예. 
+
+다음을 읽어보도록 하자. 
+[마르코프 체인과 구글페이지 랭크의 관련성](http://blog.naver.com/ojs83/120100904784)
+
+이를 통해 다음과 같은 수학적 모델링을 생각해보자.
+수정중
+
+<p style="color:bisque">
+ 
+
+어떤 주식 A의 시간당 주가를 X라고 하자. 
+ Px는 n step 이후 주가가 X에 머무를 확률이라고 할때, 무수히 많은 데이터를 입력 시,
+ Px, x`의 확률 값을 마르코프 체인 모델로 구할 수 있을 것이다. 더 정확한 모델링을 위해 거시적, 미시적 상황에 따라 주가 X가 변하는 장기적인 패턴에 따른 또 다른 확률변수를  U를 상정한다. 즉 별다른 큰 변화가 없는  상장 이후의 모든 데이터를 입력하게 되면  </p>
+
+
+---
 
 ####7. About Gold
 
