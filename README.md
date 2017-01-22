@@ -90,18 +90,51 @@ Stock means fraction of ownership of a company.
 PPP이론에 관한 영문 위키피디아 내용 
 
 ```
-Theories that invoke purchasing power parity (PPP) assume that in some circumstances (for example, as a long-run tendency) it would cost exactly the same number of, for example, US dollars to buy euros and then to use the proceeds to buy a market basket of goods as it would cost to use those dollars directly in purchasing the market basket of goods.
+Theories that invoke purchasing power parity (PPP) assume 
+that in some circumstances (for example, as a long-run tendency) it would cost exactly 
+the same number of, for example, US dollars to buy euros and then to use the proceeds
+ to buy a market basket of goods as it would cost to use those dollars 
+ directly in purchasing the market basket of goods.
 
-The concept of purchasing power parity allows one to estimate what the exchange rate between two currencies would have to be in order for the exchange to be at par with the purchasing power of the two countries currencies. Using that PPP rate for hypothetical currency conversions, a given amount of one currency thus has the same purchasing power whether used directly to purchase a market basket of goods or used to convert at the PPP rate to the other currency and then purchase the market basket using that currency. Observed deviations of the exchange rate from purchasing power parity are measured by deviations of the real exchange rate from its PPP value of 1.
+The concept of purchasing power parity allows one to estimate what the
+ exchange rate between two currencies would have to be in order for the 
+ exchange to be at par with the purchasing power of the two countries 
+ currencies. Using that PPP rate for hypothetical currency conversions, a 
+ given amount of one currency thus has the same purchasing power 
+ whether used directly to purchase a market basket of goods or used to 
+ convert at the PPP rate to the other currency and then purchase the 
+ market basket using that currency. Observed deviations of the 
+ exchange rate from purchasing power parity are measured by 
+ deviations of the real exchange rate from its PPP value of 1.
 
-PPP exchange rates help to minimize misleading international comparisons that can arise with the use of market exchange rates. For example, suppose that two countries produce the same physical amounts of goods as each other in each of two different years. Since market exchange rates fluctuate substantially, when the GDP of one country measured in its own currency is converted to the other countrys currency using market exchange rates, one country might be inferred to have higher real GDP than the other country in one year but lower in the other; both of these inferences would fail to reflect the reality of their relative levels of production. But if one country's GDP is converted into the other country's currency using PPP exchange rates instead of observed market exchange rates, the false inference will not occur.
 
-Essentially GDP PPP controls for the different costs of living and price level, usually relative to the United States Dollar, that would make an accurate depiction of a given nation's gross income.
+PPP exchange rates help to minimize misleading international 
+comparisons that can arise with the use of market exchange rates. For 
+example, suppose that two countries produce the same physical 
+amounts of goods as each other in each of two different years. Since 
+market exchange rates fluctuate substantially, when the GDP of one 
+country measured in its own currency is converted to the other countrys 
+currency using market exchange rates, one country might be inferred to 
+have higher real GDP than the other country in one year but lower in the 
+other; both of these inferences would fail to reflect the reality of their 
+relative levels of production. But if one country's GDP is converted into 
+the other country's currency using PPP exchange rates instead of 
+observed market exchange rates, the false inference will not occur.
+
+
+Essentially GDP PPP controls for the different costs of living and price 
+level, usually relative to the United States Dollar, that would make an 
+accurate depiction of a given nation's gross income.
 ```
 
 <span style="color:deeppink">중요문구 해석 </span>
 ```
-Theories that invoke purchasing power parity (PPP) assume that in some circumstances (for example, as a long-run tendency) it would cost exactly the same number of, for example, US dollars to buy euros and then to use the proceeds to buy a market basket of goods as it would cost to use those dollars directly in purchasing the market basket of goods.
+Theories that invoke purchasing power parity (PPP) assume that in 
+some circumstances (for example, as a long-run tendency) it would cost 
+exactly the same number of, for example, US dollars to buy euros and 
+then to use the proceeds to buy a market basket of goods as it would 
+cost to use those dollars directly in purchasing the market basket of 
+goods.
 ```
 *※ invoke: 적용하다. (ex) It is unlikely that libel laws will be invoked.)*
 *※ proceeds:  수익금* 
