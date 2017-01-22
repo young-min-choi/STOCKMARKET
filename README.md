@@ -1,18 +1,44 @@
-<span style="color: red; font-weight:500; font-size:30px; text-alignment:center">주식 종목 추천받습니다.</span> 
+<span style="color: red; font-weight:500; font-size:24px; text-align: center;">주식 종목 추천받습니다.</span> 
+
+
+<span style="color: red; font-weight:500; font-size:18px; text-align: center;">본 컨텐츠는 영어학습을 위해 일부 내용의 경우 영문으로 작성되었습니다. 또한 영문 자료중 일부는 한글로 해석되었습니다. </span> 
+
 # Understanding the Basics of Stockmarket
+
 Index
 ####1. What is Stock? (주식이란?)
-####2. Types of Stock (주식의 종류)
-####3. Basic Terms (주식기초용어)
-####4. The Causes of Change in Stock Prices 
-####5. Current Trends in the Korean Market 
+####2. What is Exchange Rate (환율이란?)
+####3. Types of Stock (주식의 종류)
+####4. Basic Terms (주식기초용어)
+####5. The Causes of Change in Stock Prices  
 ####6. Reflexibility Theory by George Soros
-####7. 금에 관하여 
-####8. Markov Chain and its Application in Stock Market __(advanced)__
-####9. 한진해운사태 
-####10. 주식 종목 추천 
+####7. 소로스 이론으로 살펴보는 한진해운사태 
+####8. Markov Chain and its Application to Stock Market __(advanced)__
+####9. 주식 종목 추천 
 ----
 ###1. What is Stock?
+
+- 왜 주식공부를 해야하는가?
+
+우리 모두는 자본주의(capitalism) 사회에  살고 있다. 자본주의 사회에 사는 개인은 생산과 소비라는 두 축으로 경제활동을 벌이는 주체들이다. 그리고 그 생산과 소비는 돈이라는 매개를 통해 이루어지고 있다. 더 많은 가치를 생산하여 수입이 더 많이 발생하는 개인은 그만큼 더 많은 소비를 할 수 있기에, 자본주의 사회에서는 일정부분 개인의 자유는 수입에 의존한다고 볼 수 있다. 
+그러나 안타깝게도 우리는 학교에서 어떤 직업을 가질 것이며 그러한 직업을 가지기 위해서는 무엇이 필요한지만을 공부했지, 직업을 통해 얻게된 수입을 어떻게 운용해야되는지에 대해서는 전혀 배운바가 없다. 즉, 경제활동은 크게 1) 돈을 버는 것 2) 돈을 쓰는 것 3) 돈을 투자하는 것으로 나눌 수 있는데 대부분의 사람들은 1)과 2)에만 집중을 하지 3)의 항목에 관해서는 관심이 없다는 것이다. 어떻게 투자할 것인가를 배우게 되면 세상을 살아가는 관점을 바꿀 수 있으며 자본주의 사회에서 더 많은 자유와 행복을 누릴 수 있다. 
+그뿐만 아니라 투자라는 것은 우리 인생에서 가장 본질적일 것이기도 하다. 우리는 매 순간 1분 1초를 투자하고 있다. 어떻게 시간을 쓸 것이며, 누구를 만날 것인가, 어떤 옷을 입고 어떤 음식을 먹을 것인가 등 모든 선택이 일종의 투자라고 할 수 있다. 결국 자본의 논리를 벗어나 투자를 잘한다는 의미는 인생을 사는 지혜와 현명함을 깨다는 것이라고도 할 수 있다. 
+주식은 자본주의의 핵심요소이다. 주식을 공부하게 되면 자본주의의 메커니즘을 깨닫게 될 수 있다. 주식을 하기 위해서는 기본적인 경제적인 지식과 각 산업에 대한 폭 넓은 이해 등이 필요하므로 경제에 대한 많은 공부를 할 수 있다. 부동산의 경우 기본적인 매매가가 높기 때문에 자본금이 충분하지 않은 개인이 접근하기가 어렵다. 또한 주식은 각종 모든 지수가 인터넷에 공개되어 있으므로 비교적 정보의 비대칭성이 덜하다. 
+
+- 주식이란? 
+
+주식이 무엇인지에 관해서는 두 가지 관점으로 접근할 수 있는 것이 일반적이다. 
+첫 째로, 주식은 어떤 기업에 대한 소유권의 지분을 가진다는 의미가 될 수 있으며, 두 번째로는 어떤 기업의 자산에서 모든 채무를 변제한 이후 남은 잉여 수익에 대한 지분을 의미하는 것이기도 하다. 첫 번째 의미는 개인의 투자적인 관점에서의 해석이라 할 수 있고, 두 번째 관점은 기업 입장에서 자산의 구조를 의미하는 것이라 할 수 있다. 
+
+이 둘을 종합하여 설명하자면, 
+개인은 회사에 투자를 하고 싶어하며 반대로 회사는 운영을 위해 개인의 투자금을 필요로 한다. 투자를 하려는 개인과 받으려는 기업의 매개체 역할을 주식이 한다고 볼 수 있다. 이를 유식한 말로 __자본조달(equity financing)__이라고 한다.개인이 어떤 기업에 투자를 하고 싶어도 자본의 한계 때문에 그 기업을 통채로 살 수는 없다. 그러므로 그 기업의 가치를 잘개 쪼개어 개인에게 파는 것이다. 기업의 지분을 일반인들에게 판매함으로써 영업이익을 나누고 또한 의결권을 분배하는 것이다. 
+
+- 자본조달, 그리고 자본주의의 꽃인 유상증자 
+
+투자를 받으려는 기업은  IPO(Initial Public Offering의 준말로 3.에 기술)를 통해 회사의 재무를 공시하는 등과 같은 몇 가지 의무를 통해 회사를 상장할 수 있다. 이후 추가적인 자본조달이 필요한 경우 __유상증자(capital increase by issuing new stocks)__와 같은 방법을 통해 자본금을 늘릴 수 있다. 유상증자란 쉽게 말해 회사의 지분인 주식을 더 발행해 돈을 주고 파는 것으로서, 회사는 주식을 사는 개인에게 주식 매입금을 상환해줄 의무가 없다. 주식을 사는 것을 투자행위로 간주하기 때문이다. 이러한 상환의무가 없는 점을 들어 유상증자를 자본주의의 꽃이라고도 한다. 
+그러나 일반적으로 유상증자는 악재로 인식된다. 왜냐하면 추가적인 주식을 발행함으로써 주식의 가치가 희석되며 대부분의 경우 추가적인 자본금이 필요한 이유는 회사가 사업을 확장하려하기 보다는 인건비, 자재비와 같은 운전자금을 마련할 비용이 없어서 하는 경우가 많기 때문이다. 
+
+
 [Reference site](https://en.wikipedia.org/wiki/Stock)
 The __Stock__ (also capital stock) of a corporation is constituted of the equity stock of its owners. A single share of the stock represents fractional ownership of the corporation in proportion to the total number of shares. In liquidation, __the stock represents the residual assets of the company__ that would be due to stockholders after discharge of all senior claims such as secured and unsecured debt. Stockholders' equity cannot be withdrawn from the company in a way that is intended to be detrimental to the company's creditors.
 
@@ -23,22 +49,76 @@ In the easiest words,
 Stock means fraction of ownership of a company. 
 ```
 
-주식이란 2가지 의미로 정의할 수 있다. 주식은 어떤 기업에 대한 소유권의 일부를 가진다는 의미가 될 수 있으며, 두 번째로는 어떤 기업의 자산에서 모든 채무를 변제한 이후 남은 잉여 수익에 대한 지분을 의미하는 것이기도 하다. 
+---
 
-개인이 어떤 기업에 투자를 하고 싶어도 자본의 한계 때문에 그 기업을 통채로 살 수는 없다. 그러므로 그 기업의 가치를 잘개 쪼개어 개인에게 파는 것이다. 
+### 2. 환율이란?
+- 환율이란? 
+금리가 돈의 절대적 가치라 한다면 환율은 돈의 상대적 가치라고 할 수 있다. 돈도 결국 상품의 일종으로 생각해볼 수 있다. 만약 달러의 상대적 가치가 높다면(달러강세) 더 많은 원화를 주고 달러를 사야할 것이다. 다시 말해, 국가마다 다른 화폐를 일종의 재화로 생각했을 때 두 재화간의 상대적 가치의 비율을 환율이라고 한다. 
 
-Then why is stock important? 
+- 주식에서 환율이 중요한 이유 
+우리나라는 수출에 매우 민감한 국가로서 환율에 따라 많은 경제지수가 변동한다. 그러므로 환율의 추이를 판단할 수 있는 능력이 있어야 주식을 더 올바로 접근할 수 있다. 또한 자동차, 철강과 같은 일부 산업군은 환율에 영향을 더 많이 받으므로 투자 종목을 선정할 시에도 환율은 중요한 요소라고 할 수 있다. 
+
+- 엔저면 수출이 왜 불리한가? 
+최근 일본의 주요 경제정책인 엔저를 통해 환율을 더 이해해보도록 하자. 
+엔저라는 의미는 엔화의 가치가 적다는 의미이다. 다음과 같이 정리해보자 
+
+```
+엔저 
+= 엔화의 가치가 적다. 
+= 원화의 가치가 상대적으로 높아 졌다. 
+= 더 적은 원화로 100엔을 구입할 수 있다.
+```
+
+우리가 자동차 한대를 일본에서 팔게되는경우를 상상해보자.  H사의 자동차 모델 A의 가격이 1000엔이면 기존환율 (100엔:1,000원)에서는 자동차 한대를 일본에서 팔면 10,000원을 벌 수 있었다. 그러나 엔화 가치가 떨어져 (엔저, 원화강세) 100엔의 가치가 500원으로 떨어졌다. 이경우 자동차 한대를 팔면 5,000원 밖에 벌수가 없는 것이다. 반대로 일본이 한국에 수출하는 경우에는 일본자동차가 더 유리하며 경우에 따라서는 가격을 낮춰 가격경쟁력을 가질수도 있다.  
+
+다음 엔저 자동차 수출 관련 뉴스를 읽어보면 더욱 이해가 잘될 것이다. 
+ 
+[참고기사](http://kr.wsj.com/posts/2015/07/13/%EC%9D%BC%EB%B3%B8-%EC%9E%90%EB%8F%99%EC%B0%A8-%EC%97%85%EC%B2%B4%EB%93%A4-%EC%97%94%EC%A0%80-%EC%97%85%EA%B3%A0-%EA%B5%AD%EB%82%B4-%EC%83%9D%EC%82%B0-%EB%B9%84%EC%A4%91-%EB%8A%98%EB%A6%B0%EB%8B%A4/)
+
+[같은내용의 영문기사](http://www.wsj.com/articles/nissan-honda-to-ship-more-cars-from-home-1436522856)
+
+- 구매력결정설(Purchasing Power Parity Theory)
+환율이 각 국가의 구매력에 따라 결정된다는 이론이다. 이는 일물일가론(Law of One price)와 상통한다. 모든 국가마다 빅맥의 가격이 같아야 한다는것이다. 예를 들어 서울과 부산의 펜 값이 다르다면 싼 곳에 사서 비싼곳에 팔아 시세차익을 실현할 수 있다. 그러나 이러한 행위가 반복되면 펜 값이 싼곳은 수요가 점점 늘어나 가격이 점점 오를 테고,
+반대로 펜 값이 비싼곳은 외부로부터의 공급이 늘어나 가격이 싸져 결국에는 같아질 것이다. 이것을 국가에 적용한 것이 구매력결정설이다. 
+
+PPP이론에 관한 영문 위키피디아 내용 
+
+```
+Theories that invoke purchasing power parity (PPP) assume that in some circumstances (for example, as a long-run tendency) it would cost exactly the same number of, for example, US dollars to buy euros and then to use the proceeds to buy a market basket of goods as it would cost to use those dollars directly in purchasing the market basket of goods.
+
+The concept of purchasing power parity allows one to estimate what the exchange rate between two currencies would have to be in order for the exchange to be at par with the purchasing power of the two countries currencies. Using that PPP rate for hypothetical currency conversions, a given amount of one currency thus has the same purchasing power whether used directly to purchase a market basket of goods or used to convert at the PPP rate to the other currency and then purchase the market basket using that currency. Observed deviations of the exchange rate from purchasing power parity are measured by deviations of the real exchange rate from its PPP value of 1.
+
+PPP exchange rates help to minimize misleading international comparisons that can arise with the use of market exchange rates. For example, suppose that two countries produce the same physical amounts of goods as each other in each of two different years. Since market exchange rates fluctuate substantially, when the GDP of one country measured in its own currency is converted to the other countrys currency using market exchange rates, one country might be inferred to have higher real GDP than the other country in one year but lower in the other; both of these inferences would fail to reflect the reality of their relative levels of production. But if one country's GDP is converted into the other country's currency using PPP exchange rates instead of observed market exchange rates, the false inference will not occur.
+
+Essentially GDP PPP controls for the different costs of living and price level, usually relative to the United States Dollar, that would make an accurate depiction of a given nation's gross income.
+```
+
+중요문구 해석 
+```
+Theories that invoke purchasing power parity (PPP) assume that in some circumstances (for example, as a long-run tendency) it would cost exactly the same number of, for example, US dollars to buy euros and then to use the proceeds to buy a market basket of goods as it would cost to use those dollars directly in purchasing the market basket of goods.
+```
+여기서 invoke 
+proceeds 
+
+
+- <h4>아베, 일본 기업들에게 해외채권 매입주문</h4>
+엔저를 위해서 아베가 일본 기업들에게 해외채권을 매입할 것을 주문하게 된 배경을 알아보자. 일본 기업이 기업 유보금이나 혹은 기타 회사의 자본으로 해외채권을 매입하게 되면 더 많은 엔화가 시장에 풀리게 되므로 엔화의 가치는 떨어지게 되고 엔저가 유발된다. 
+
+
 
 ----
-####2.Types of Stock
+###3.Types of Stock 주식의 종류
 
 |Common | Preferred|
 |-----|-----|
 | Common stock is, well, common.|Fixed guaranteed dividend, rights to be paid off first|
 
+주식의 종류로 크게 보통주 선호주로 나뉜다. 
+대부분 우리가 말하는 주식은 보통주이다. 
+선호주의 경우 고정적인 금액의 배당금을 보장받을 수 있으며 기업 청산시 보통주보다 먼저 남은 회사 자본을 받을 수 있다. 
 
 ----
-###3. Basic terms   
+###4. 기초용어 설명 Basic terms   
 
 > *Understanding basic terms and definition is the essential key to success in any field.*
 > *It is like the act of assembling the smallest blocks to build a castle.*
@@ -125,7 +205,7 @@ Below is the list of basic terms listed in alphabetical order.
 - Yield: This usually refers to the measure of the return on an investment that is received from the payment of a dividend. This is determined by dividing the annual dividend amount by the price paid for the stock. If you bought stock XYZ for $40-a-share and it pays a $1.00-per-year dividend, you have a “yield” of 2.5%
 
 ---- 
-### 4. The Causes of Change in Stock Prices 
+### 5. The Causes of Change in Stock Prices 
 
 There are many factors and theories regarding this subject. 
 However, 4 factors mentioned below are fundamental to changing prices of stock. 
@@ -144,12 +224,14 @@ If more people want to buy a stock (demand) than sell it (supply), then the pric
 Understanding supply and demand is easy. *What is difficult to comprehend is what makes people like a particular stock and dislike another stock.* This comes down to figuring out what news is positive for a company and what news is negative. There are many answers to this problem and just about any investor you ask has their own ideas and strategies.
 
 - 
-----
-### 5. Current Trend in the Korean Market 
-
 
 ----
-### 6. Reflexibility Theory by George Soros
+### 6. 재귀성 이론 Reflexibility Theory by George Soros
+
+본 챕터에서는 
+- 조지소로스의 인물배경
+- 재귀성이론
+- 붐-버스트 이론에 대해 얘기해볼 것이다. 
 
 Here, I will explain: 
 - A little bit of his personal background 
@@ -249,6 +331,31 @@ The typical boom-bust plays out in eight stages:
 ![Boom-Bust](https://wdongli.files.wordpress.com/2014/03/bubble_maniacyclechart.png?w=470)
 
 ---
+####7. 소로스 이론으로 살펴보는 한진해운사태 
+
+
+
+
+---
+####9. 종목추천
+
+태양광 분야 (C+) 
+- 지난 5년간 중국 태양광 업체들의 공급과잉 현상이 지속될지 여부가 관건.
+[관련기사1](http://www.etnews.com/20160818000373?SNS=00002)
+- 트럼프 정부 출연은 악재로 작용. 
+[관련기사2](http://www.cnews.co.kr/uhtml/read.jsp?idxno=201701201100157090247)
+
+
+- 눈 여겨볼 기업 
+신성솔라에너지 
+- 클린룸사업을 겸업하고 있는 회사로서 설립된지 38년이 지난 중견회사로 입지를 다녀나가고 있음. 
+- 2,000원 선 혹은 그 아래에서 구매하는 것을 추천. 
+제이씨 케미칼
+- 신성솔라에너지보다 변동성(Volitility)이 높음 
+- 신성솔라에너지의 1/3수준의 시가총액 
+
+---
+
 
 ####7. About Gold
 
