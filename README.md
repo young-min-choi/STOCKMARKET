@@ -1,7 +1,7 @@
 <span style="color: red; font-weight:500; font-size:24px; text-align: center;">주식 종목 추천받습니다.</span> 
 
 
-<span style="color: red; font-weight:500; font-size:18px; text-align: center;">본 컨텐츠는 영어학습을 위해 일부 내용의 경우 영문으로 작성되었습니다. 또한 영문 자료중 일부는 한글로 해석되었습니다. </span> 
+<span style="color: deeppink; font-weight:500; font-size:18px; text-align: center;">본 컨텐츠는 영어학습을 위해 일부 내용의 경우 영문으로 작성되었습니다. 또한 영문 자료중 일부는 한글로 해석되었습니다. </span> 
 
 # Understanding the Basics of Stockmarket
 
@@ -21,9 +21,14 @@ Index
 - 왜 주식공부를 해야하는가?
 
 우리 모두는 자본주의(capitalism) 사회에  살고 있다. 자본주의 사회에 사는 개인은 생산과 소비라는 두 축으로 경제활동을 벌이는 주체들이다. 그리고 그 생산과 소비는 돈이라는 매개를 통해 이루어지고 있다. 더 많은 가치를 생산하여 수입이 더 많이 발생하는 개인은 그만큼 더 많은 소비를 할 수 있기에, 자본주의 사회에서는 일정부분 개인의 자유는 수입에 의존한다고 볼 수 있다. 
+
 그러나 안타깝게도 우리는 학교에서 어떤 직업을 가질 것이며 그러한 직업을 가지기 위해서는 무엇이 필요한지만을 공부했지, 직업을 통해 얻게된 수입을 어떻게 운용해야되는지에 대해서는 전혀 배운바가 없다. 즉, 경제활동은 크게 1) 돈을 버는 것 2) 돈을 쓰는 것 3) 돈을 투자하는 것으로 나눌 수 있는데 대부분의 사람들은 1)과 2)에만 집중을 하지 3)의 항목에 관해서는 관심이 없다는 것이다. 어떻게 투자할 것인가를 배우게 되면 세상을 살아가는 관점을 바꿀 수 있으며 자본주의 사회에서 더 많은 자유와 행복을 누릴 수 있다. 
+
 그뿐만 아니라 투자라는 것은 우리 인생에서 가장 본질적일 것이기도 하다. 우리는 매 순간 1분 1초를 투자하고 있다. 어떻게 시간을 쓸 것이며, 누구를 만날 것인가, 어떤 옷을 입고 어떤 음식을 먹을 것인가 등 모든 선택이 일종의 투자라고 할 수 있다. 결국 자본의 논리를 벗어나 투자를 잘한다는 의미는 인생을 사는 지혜와 현명함을 깨다는 것이라고도 할 수 있다. 
-주식은 자본주의의 핵심요소이다. 주식을 공부하게 되면 자본주의의 메커니즘을 깨닫게 될 수 있다. 주식을 하기 위해서는 기본적인 경제적인 지식과 각 산업에 대한 폭 넓은 이해 등이 필요하므로 경제에 대한 많은 공부를 할 수 있다. 부동산의 경우 기본적인 매매가가 높기 때문에 자본금이 충분하지 않은 개인이 접근하기가 어렵다. 또한 주식은 각종 모든 지수가 인터넷에 공개되어 있으므로 비교적 정보의 비대칭성이 덜하다. 
+
+주식은 자본주의의 핵심요소이다. 주식을 공부하게 되면 자본주의의 메커니즘을 깨닫게 될 수 있다. 기업이 어떻게 운영되는지를 아는 것이 핵심적이기 때문이다. 추가로 기본적인 경제적인 지식과 각 산업에 대한 폭 넓은 이해 등이 필요하므로 경제에 대한 많은 공부를 할 수 있다. 부동산의 경우 기본적인 매매가가 높기 때문에 자본금이 충분하지 않은 개인이 접근하기가 어렵다. 그리고 부동산이라는 한정된 분야에 비해 주식은 산업 전반에 걸쳐 있으며 이에 따라 자신의 관심분야에 집중할 수 있다. 또한 주식은 각종 모든 지수가 인터넷에 공개되어 있으므로 비교적 정보의 비대칭성이 덜하다. 
+
+주식을 통해 경제 전반을 이해하고, 투자의 기본적인 마인드와 태도를 연습함으로써 더 나은 삶을 영위하는 것이 가능하다. 다만 투기가 아닌 본인만의 객관적인 시각에 기반하여 투자하는 연습을 해야하며 그 과정에서 정신적으로 흔들리지 않아야 할것이다. 
 
 - 주식이란? 
 
@@ -31,7 +36,7 @@ Index
 첫 째로, 주식은 어떤 기업에 대한 소유권의 지분을 가진다는 의미가 될 수 있으며, 두 번째로는 어떤 기업의 자산에서 모든 채무를 변제한 이후 남은 잉여 수익에 대한 지분을 의미하는 것이기도 하다. 첫 번째 의미는 개인의 투자적인 관점에서의 해석이라 할 수 있고, 두 번째 관점은 기업 입장에서 자산의 구조를 의미하는 것이라 할 수 있다. 
 
 이 둘을 종합하여 설명하자면, 
-개인은 회사에 투자를 하고 싶어하며 반대로 회사는 운영을 위해 개인의 투자금을 필요로 한다. 투자를 하려는 개인과 받으려는 기업의 매개체 역할을 주식이 한다고 볼 수 있다. 이를 유식한 말로 __자본조달(equity financing)__이라고 한다.개인이 어떤 기업에 투자를 하고 싶어도 자본의 한계 때문에 그 기업을 통채로 살 수는 없다. 그러므로 그 기업의 가치를 잘개 쪼개어 개인에게 파는 것이다. 기업의 지분을 일반인들에게 판매함으로써 영업이익을 나누고 또한 의결권을 분배하는 것이다. 
+개인은 회사에 투자를 하고 싶어하며 반대로 회사는 운영을 위해 개인의 투자금을 필요로 한다. 투자를 하려는 개인과 받으려는 기업의 매개체 역할을 주식이 한다고 볼 수 있다. 이를 다른 말로 __자본조달(equity financing)__이라고 한다.개인이 어떤 기업에 투자를 하고 싶어도 자본의 한계 때문에 그 기업을 통채로 살 수는 없다. 그러므로 그 기업의 가치를 잘개 쪼개어 개인에게 파는 것이다. 기업의 지분을 일반인들에게 판매하고 기업의 순이익을 배당금이라는 이름으로 나누어주며, 또한 의결권을 분배하는 것이다. 
 
 - 자본조달, 그리고 자본주의의 꽃인 유상증자 
 
@@ -93,12 +98,13 @@ PPP exchange rates help to minimize misleading international comparisons that ca
 Essentially GDP PPP controls for the different costs of living and price level, usually relative to the United States Dollar, that would make an accurate depiction of a given nation's gross income.
 ```
 
-중요문구 해석 
+<span style="color:deeppink">중요문구 해석 </span>
 ```
 Theories that invoke purchasing power parity (PPP) assume that in some circumstances (for example, as a long-run tendency) it would cost exactly the same number of, for example, US dollars to buy euros and then to use the proceeds to buy a market basket of goods as it would cost to use those dollars directly in purchasing the market basket of goods.
 ```
-여기서 invoke 
-proceeds 
+*※ invoke: 적용하다. (ex) It is unlikely that libel laws will be invoked.)*
+*※ proceeds:  수익금* 
+<span style="color:deeppink">구매력 결정을 적용하는 이론들은 다음을 가정한다. (that 절 이하) 어떤 특정상황에서 (예를 들어 장기적인 경향에서) 달러로 유로화를 사고 그 유로화로 소비재를 사는 것은 같은 금액의 달러로 사는 것과 동일한 비용이 들 것이다.  </span>
 
 
 - <h4>아베, 일본 기업들에게 해외채권 매입주문</h4>
@@ -124,7 +130,9 @@ proceeds
 > *It is like the act of assembling the smallest blocks to build a castle.*
    
    *by Young-Min Choi*
-
+<span style="color:deeppink">
+기본 용어와 정의를 이해하는 것은 어떠한 분야에서든 성공하는 핵심적인 키이다. 그것은 마치 성을 쌓기 위해 조그만 블럭을 쌓아가는 것과 같다. by 최영민  
+</span>
 Jan 21, 2017추가 
 
 - 자산(capital): 내가 가진 모든 재산을 말한다. __부채를 포함한다.__
@@ -145,8 +153,9 @@ Jan 21, 2017추가
 - 펀머멘탈(Fundamental): 주로 어떤 기업이나 산업군의 경제적 가치, 능력, 잠재력에 관한 지수들을 의미하는 것이다. 그 기업이 얼마나 재무적으로 건전하며 앞으로 성장할 가능성이 있는지를 판단하여 투자하는 것을 펀더멘탈 투자이다. 이에 대비하여 차트를 분석하여 과거의 경향을 통해 투자하는 것을 모멘텀 투자라고 한다. 펀더멘탈 투자는 모멘텀 투자에비해 더 장기적인 관점에서 진행되는 경우가 많다. 
 
 - 벨류에이션(Valuation): 어떤 기업의 가치를 평가하는 일. 어떤 기업의 재산적 가치를 평가하는 방법은 매우 다양하다. 
+the act of evaluating a company. There are many ways to evaluate companies financial value. 
 
-- 유한책임(limited liability): 영문 표현을 봐도 느낌이 팍팍오지 않는가? 책임이 제한적이라는 뜻이다. 
+- 유한책임(limited liability): 영문 표현을 봐도 느낌이 팍팍오지 않는가? 책임이 제한적이라는 뜻이다. 유상증자와 같이 기업이 주주들에게 주식의 가치를 보존해야될 의무가 없는 것을 의미한다. 
 
 추가적으로 영어로 기본적인 주식용어들을 살펴봤다. 
 __읽어보길 적극 권장한다.__
@@ -156,18 +165,31 @@ __읽어보길 적극 권장한다.__
 Below is the list of basic terms listed in alphabetical order. 
 
 - Averaging Down: This is when an investor buys more of a stock as the price goes down. This makes it so your average purchase price decreases.
+<span style="color:deeppink">
+물타기: 주가가 떨어짐에 따라 투자자가 더 많은 주식을 사는것. 이를 통해 평균 주식 구매단가가 감소하게 된다. 
+</span>
 
 - Beta: A measurement of the relationship between the price of a stock and the movement of the whole market. If stock XYZ has a beta of 1.5, that means that for every 1 point move in the market, stock XYZ moves 1.5 points and vice versa.
 
 - Blue Chip Stocks: These are the large, industry leading companies. They offer a stable record of significant dividend payments and have a reputation of sound fiscal management. The expression is thought to have been derived from blue gambling chips, which is the highest denomination of chips used in casinos.
+<span style="color:deeppink">
+블루칩 주식: 특정 산업군을 이끌어가는 큰 기업들을 의미한다. 이들 주식들은 안정적인 배당금을 지급하며 건전한 재무관리를 가지고 있다. 
+</span>
+*※denomination: 액면가*
 
 - Bull Market: This is when the stock market as a whole is in a prolonged period of increasing stock prices. Opposite of a bear market.
 
 - Broker: A person who buys or sells an investment for you in exchange for a fee (a commission). Here is Tim’s favorite broker. (LINK)
 
 - Day Trading: The practice of buying and selling within the same trading day, before the close of the markets on that day. This is what Tim typically does, although he does have a long-term portfolio as well. Traders that participate in day trading are often called “active traders” or “day traders.”
+<span style="color:deeppink">
+단타 매매자: 같은 거래일 내에서 주식을 사고 파는 행위. 이는 팀(사람이름)이 자주하는 것이나 그는 장기적인 포트폴리오를 가지고 있다. 이러한 단타 매매자를 "능동적 트레이더" 혹은 "단타 매매자"라고 한다. 
+</span>
 
 - Dividend: this is a portion of a company’s earnings that is paid to shareholders, or people that own hat company’s stock, on a quarterly or annual basis. Not all company’s do this.
+<span style="color:deeppink">
+배당금: 기업의 순수익을 주주들에게 나눠주는 것. 
+</span>
 
 - Exchange: An exchange is a place in which different investments are traded. The most well-known in the United States are the New York Stock Exchange and the Nasdaq.
 
@@ -176,6 +198,7 @@ Below is the list of basic terms listed in alphabetical order.
 - Hedge: This is used to limit your losses. You can do this by taking an offsetting position. For example, if you hold 100 shares of XYZ, you could short the stock or futures positions on the stock.
 
 - Index: An index is a benchmark which is used as a reference marker for traders and portfolio managers. A 10% may sound good, but if the market index returned 12%, then you didn’t do very well since you could have just invested in an index fund and saved time by not trading frequently. Examples are the Dow Jones Industrial Average and Standard & Poor’s 500.
+인덱스(혹은 주가지수): 인덱스는 투자자들에게 참고점이 되는 기준지수이다. 10%수익은 좋게 들릴수 있지만 시장지수(시장을 구성하는 제요인의 움직임을 나타내는 지수)가 12%라면 훌륭한 투자라고 할 수 없다. 왜냐하면 인덱스 펀드에 투자하면 한번의 투자로 여러번의 투자를 할 필요없이 시간을 아끼며 더 나은 수익을 올릴 수 있었기 때문이다. 
 
 - Initial Public Offering (IPO): The first sale or offering of a stock by a company to the public, rather than  just being owned by private or inside investors.
 
@@ -195,10 +218,21 @@ Below is the list of basic terms listed in alphabetical order.
 - Sector: A group of stocks that are in the same business. An example would be the “Technology” sector including companies like Apple and Microsoft.
 
 - Spread: This is the difference between the bid and the ask prices of a stock, or the amount someone is willing to buy it and someone is willing to sell it.
+<span style="color:deeppink">
+스프레드: 주식의 매매가와 매입가의 차이를 의미하거나 혹은 어떤 주식을 사려는 사람과 팔려는 사람의 주가 매물수량 차이를 의미하기도 한다.
+</span>
 
 - Stock Symbol: A one-character to three-character, alphabetic root symbol, which represents a publically traded company on a stock exchange. Apple’s stock symbol is AAPL.
 
 - Volatility: This refers to the price movements of a stock or the stock market as a whole. Highly volatile stocks are ones with extreme daily up and down movements and wide intraday trading ranges. This is often common with stocks that are thinly traded, or have low trading volumes. This is also common with the stocks that Tim trades.
+<span style="color:deeppink">
+유동성(혹은 휘발성?): 어떤 주가 혹은 주식시장 전체의 가격 움직임을 말한다. 유동성이 큰 주식은 하루에 극단적으로 출렁이는 주식을 말한다. 이는 주로  소량 거래 증권에서 자주 나타나는 현상이다. 
+</span>
+
+- thinly traded: The stock prices of small unknown publically traded companies are deemed to be thinly traded. The lack of ready buyers and sellers generally leads to large discrepancies between the asking price and the bidding price. Thinly-traded securities are usually more risky than liquid assets because a small number of market participants can have such a large impact on the price.
+<span style="color:deeppink">
+소량거래증권: 작은 규모의 잘 안알려진 회사의 주가는 소량거래로 간주된다. 투자 준비를 갖춘 매입자와 매도자가 충분치 않은 상황은 가격의 매도가와 매입가 사이에 큰 격차로 이어지게 된다. 소량거래증권은 소수의 참가자가 가격에 더 큰 변동을 줄 수 있기 때문에 유동자산 보다 더 위험하다. 
+</span>
 
 - Volume: The number of shares of stock traded during a particular time period, normally measured in average daily trading volume.
 
@@ -245,6 +279,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/George_Soros#Wealth),
 In July 2014 Forbes listed Soros as the 27th richest person in the world, the world's richest hedge-fund manager, and 7th on its list of the 400 wealthiest Americans, with a net worth estimated at $23 billion.
 
 __He does not believe that market is efficient.__
+<span style="color:deeppink"> 그는 시장이 효율적이라고 생각하지 않는다.</span>
 
 ![George Soros](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/George_Soros_47th_Munich_Security_Conference_2011_crop.jpg/230px-George_Soros_47th_Munich_Security_Conference_2011_crop.jpg)
 
@@ -333,26 +368,53 @@ The typical boom-bust plays out in eight stages:
 ---
 ####7. 소로스 이론으로 살펴보는 한진해운사태 
 
+한진해운 사태에 대한 간략한 이해 
+[한진해운 사태 이해하기 유투브영상](https://youtu.be/bloUDe8WNms)
 
+한줄요약: 전 한진해운 회장 조수호가 사망하면서 본인소유의 주식을 부인 최은영 아내에게 넘기게 되고, 그 후 7년간 부채가 150%에서 1440%로 증가하면서 회사는 법정관리에 들어가게 됐음. 그 과정에서 최은영은 자율협약 이전에 주식을 매수하는 등 부도덕한 행태를 보임. 
+
+최근 한진해운 주가 추이 
+![그림](https://ssl.pstatic.net/imgfinance/chart/mobile/area/month3/117930_search.png?sidcode=1398073782866)
+
+```
+16일 한국거래소에 따르면 지난 2일부터 이날까지 한진해운에 대한 개인투자자들의 누적거래량은 11억2658만여주에 달한다. 같은 기간동안 외국인들은 257만주, 기관은 27만주에 불과 했다. 
+
+이 기간동안 한진해운의 주가 상승률은 266% 수준이다.
+
+문제는 법원이 한진해운에 대해 사실상 파산선고를 내릴 것을 시사하고 있다는 점이다. 이 경우 상장폐지 조건에 해당되기 때문에 한진해운 주식은 '휴지조각'이 된다. 
+```
+
+현재 한진해운은 법정에서 주요 자산매각 이후 청산 또는 회생을 결정하게 될 것으로 청산에 무게가 더 실리는 편이다. 이러한 상황에서 한진해운에 투자하는 것은 도박에 가깝다. 매우 비정상적인 한진해운 주가추이는 소로스의 Boom-Bust 이론으로 설명가능하다. 일반적인 수요-공급의 수준을 넘어서는 비정상 상황으로 진입함에 따라 버블이 발생했고 이후 버블이 한차례 꺼진 이후 관성적으로 투자하는 개미들에 의해 2차 반등하였으나 이는 하루 만에 다시 하락세에 접어들었다. 
+
+- 왜 한진해운의 주가는 급등하는가? 
+전반적인 부정론과 그에 상반되는 긍정론이 상존하는 가운데, 극단적인 구조조정이 발생하는 혼란스러운 상황에서 주가 흐름이 개인들에 의해 투기적 성향을 띠게될 가능성이 많다. 또한 언론 매체의 노출 급증은 이러한 흐름을 더욱 가속화하여 **Negative loop**을 형성하게 된다. 
 
 
 ---
 ####9. 종목추천
 
-태양광 분야 (C+) 
+<span style="color:tomato;">태양광 분야 (C+) </span>
 - 지난 5년간 중국 태양광 업체들의 공급과잉 현상이 지속될지 여부가 관건.
 [관련기사1](http://www.etnews.com/20160818000373?SNS=00002)
 - 트럼프 정부 출연은 악재로 작용. 
 [관련기사2](http://www.cnews.co.kr/uhtml/read.jsp?idxno=201701201100157090247)
+- 앞으로 셰일 가스등으로 인해 저유가 흐름이 지속될 가능성이 크므로 2000년 대 초반의 정부 주도하 태양광 산업의 발전은 힘들 것으로 판단. 
+- 굳이 관련 sector에 투자를 하겠다면, 펀더멘탈을 보고 저점에서 bluechip에 투자하기를 권장한다. 
+
+눈 여겨볼 기업 
+
+- 신성솔라에너지 
+1)클린룸사업을 겸업하고 있는 회사로서 설립된지 38년이 지난 중견회사로 입지를 다녀나가고 있음. 
+2) 1,800원 선 혹은 그 아래에서 구매하는 것을 추천. 
+
+- 제이씨 케미칼
+1) 신성솔라에너지보다 변동성(Volitility)이 높음 
+2) 신성솔라에너지의 1/3수준의 시가총액 (블루칩과는 거리가 멀음) 
+
+<span style="color:tomato;">IoT 분야 (A) </span>
 
 
-- 눈 여겨볼 기업 
-신성솔라에너지 
-- 클린룸사업을 겸업하고 있는 회사로서 설립된지 38년이 지난 중견회사로 입지를 다녀나가고 있음. 
-- 2,000원 선 혹은 그 아래에서 구매하는 것을 추천. 
-제이씨 케미칼
-- 신성솔라에너지보다 변동성(Volitility)이 높음 
-- 신성솔라에너지의 1/3수준의 시가총액 
+눈 여겨볼 기업 
 
 ---
 
@@ -364,3 +426,6 @@ Following is the Gold Price Chart in the Korean market.
 
 What affects the price of Gold? Gold is one of the prominent areas that Soros's Theory can be applied. 
 What makes gold even more subject to "reflexive" processes than most other investments is that __there are no market forces that tend to pull it back down.__
+
+
+
