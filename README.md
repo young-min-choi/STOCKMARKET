@@ -415,6 +415,35 @@ The typical boom-bust plays out in eight stages:
 
 ![Boom-Bust](https://wdongli.files.wordpress.com/2014/03/bubble_maniacyclechart.png?w=470)
 
+언론 매체의 역할에 주목하고 주식토론 장에서 어떤 의견들이 나오는지에 주목 함으로써 종목이 패러다임 3으로 진행하기 이전의 추세를 파악할 수 있을 것으로 기대된다. 
+
+#### 비슷한 이론의 트레이더 
+http://macro-ops.com/
+
+```
+Spoon boy: Do not try and bend the spoon. That’s impossible. Instead… only try to realize the truth. 
+Neo: What truth?
+Spoon boy: There is no spoon. 
+Neo: There is no spoon? 
+Spoon boy: Then you’ll see, that it is not the spoon that bends, it is only yourself.
+~ The Matrix
+```
+
+
+조지소로스의 이론과 유사한 이론을 제안하는 곳이다. 
+기본적으로 뇌 인지학 적인 측면에서 출발한다. 
+우리의 뇌는 효율성을 극대화하기 위해 두 부분으로 나뉘어 작동한다. 
+1) Part1: 인지, 감각적인 측면으로 어떤 현상을 이해하는 무의식적 과정 
+2) Part2: 복잡한 문제를 해겷기 위한 의식적 사고 과정 
+
+우리 뇌의 구조는 기본적으로 복잡한 주식시장을 이해하는데 적합하지 않다. 과도한 정보가 주어지는 상황에서 뇌의 두번째 부분이 지속적으로 작동해야 하는데 이는 많은 에너지를 소모하며 우리 뇌는 부지런함보다는 게으른 것을 추구하기 때문이다.
+
+그렇다면 어떻게 현상을 이해할 것인가? 
+
+저자는 확률론적 사고가 아닌 가능론적 사고를 할 것을 권장한다. 
+ __Posibilities are not probability.__
+
+
 ---
 ####7. 소로스 이론으로 살펴보는 한진해운사태 
 
