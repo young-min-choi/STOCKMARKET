@@ -8,9 +8,9 @@
 Index
 ####1. What is Stock? (주식이란?)
 ####2. What is Exchange Rate (환율이란?)
-####3. Types of Stock (주식의 종류)
-####4. Basic Terms (주식기초용어)
-####5. The Causes of Change in Stock Prices  
+####3. Basic Terms (주식기초용어)
+####4. The Causes of Change in Stock Prices  
+####5. 주식 구입 시 고려요소 
 ####6. Reflexibility Theory by George Soros
 ####7. 소로스 이론으로 살펴보는 한진해운사태 
 ####8. 주식 종목 추천 
@@ -44,6 +44,15 @@ Index
 투자를 받으려는 기업은  IPO(Initial Public Offering의 준말로 3.에 기술)를 통해 회사의 재무를 공시하는 등과 같은 몇 가지 의무를 통해 회사를 상장할 수 있다. 이후 추가적인 자본조달이 필요한 경우 __유상증자(capital increase by issuing new stocks)__와 같은 방법을 통해 자본금을 늘릴 수 있다. 유상증자란 쉽게 말해 회사의 지분인 주식을 더 발행해 돈을 주고 파는 것으로서, 회사는 주식을 사는 개인에게 주식 매입금을 상환해줄 의무가 없다. 주식을 사는 것을 투자행위로 간주하기 때문이다. 이러한 상환의무가 없는 점을 들어 유상증자를 자본주의의 꽃이라고도 한다. 
 그러나 일반적으로 유상증자는 악재로 인식된다. 왜냐하면 추가적인 주식을 발행함으로써 주식의 가치가 희석되며 대부분의 경우 추가적인 자본금이 필요한 이유는 회사가 사업을 확장하려하기 보다는 인건비, 자재비와 같은 운전자금을 마련할 비용이 없어서 하는 경우가 많기 때문이다. 
 
+- 주식의 종류 
+
+|Common | Preferred|
+|-----|-----|
+| Common stock is, well, common.|Fixed guaranteed dividend, rights to be paid off first|
+
+주식의 종류로 크게 보통주 선호주로 나뉜다. 
+대부분 우리가 말하는 주식은 보통주이다. 
+선호주의 경우 고정적인 금액의 배당금을 보장받을 수 있으며 기업 청산시 보통주보다 먼저 남은 회사 자본을 받을 수 있다. 
 
 [Reference site](https://en.wikipedia.org/wiki/Stock)
 The __Stock__ (also capital stock) of a corporation is constituted of the equity stock of its owners. A single share of the stock represents fractional ownership of the corporation in proportion to the total number of shares. In liquidation, __the stock represents the residual assets of the company__ that would be due to stockholders after discharge of all senior claims such as secured and unsecured debt. Stockholders' equity cannot be withdrawn from the company in a way that is intended to be detrimental to the company's creditors.
@@ -144,21 +153,8 @@ goods.
 - <h4>아베, 일본 기업들에게 해외채권 매입주문</h4>
 엔저를 위해서 아베가 일본 기업들에게 해외채권을 매입할 것을 주문하게 된 배경을 알아보자. 일본 기업이 기업 유보금이나 혹은 기타 회사의 자본으로 해외채권을 매입하게 되면 더 많은 엔화가 시장에 풀리게 되므로 엔화의 가치는 떨어지게 되고 엔저가 유발된다. 
 
-
-
 ----
-###3.Types of Stock 주식의 종류
-
-|Common | Preferred|
-|-----|-----|
-| Common stock is, well, common.|Fixed guaranteed dividend, rights to be paid off first|
-
-주식의 종류로 크게 보통주 선호주로 나뉜다. 
-대부분 우리가 말하는 주식은 보통주이다. 
-선호주의 경우 고정적인 금액의 배당금을 보장받을 수 있으며 기업 청산시 보통주보다 먼저 남은 회사 자본을 받을 수 있다. 
-
-----
-###4. 기초용어 설명 Basic terms   
+###3. 기초용어 설명 Basic terms   
 
 > *Understanding basic terms and definition is the essential key to success in any field.*
 > *It is like the act of assembling the smallest blocks to build a castle.*
@@ -273,7 +269,7 @@ Below is the list of basic terms listed in alphabetical order.
 - Yield: This usually refers to the measure of the return on an investment that is received from the payment of a dividend. This is determined by dividing the annual dividend amount by the price paid for the stock. If you bought stock XYZ for $40-a-share and it pays a $1.00-per-year dividend, you have a “yield” of 2.5%
 
 ---- 
-### 5. The Causes of Change in Stock Prices 
+### 4. The Causes of Change in Stock Prices 
 
 There are many factors and theories regarding this subject. 
 However, 4 factors mentioned below are fundamental to changing prices of stock. 
@@ -291,7 +287,36 @@ If more people want to buy a stock (demand) than sell it (supply), then the pric
 
 Understanding supply and demand is easy. *What is difficult to comprehend is what makes people like a particular stock and dislike another stock.* This comes down to figuring out what news is positive for a company and what news is negative. There are many answers to this problem and just about any investor you ask has their own ideas and strategies.
 
-- 
+- --
+### 5. 주식 구입시 고려요소 
+
+Then, what should you consider if you are willing to purchase stocks?
+
+주식은 기업의 현재 및 잠재적 가치를 나타낸다? 큰 시간적 범위에서 볼 때, 성장하는 기업은 주가가 올라가고 쇠퇴하는 기업은 주가가 떨어진다. 그러나 임의의 시점에서 주가는 기업의 펀더멘탈과는 무관한 양상을 보인다. 주가의 경향은 기업의 흥망성쇠를 보여주나, 주가는 기업의 실질적 가치와는 무관하다는 것이다.
+__그러므로 주식의 가격은 항상 잘못되어 있다.(The market price is always wrong)__ 
+ *※이에 관해서는 조지소로의 재귀성이론으로 챕터 6에서 자세히 후술하겠다.* 
+ 
+ 
+주가의 움직임에 관해서는 다음과 같은 요소들을 생각해보자. 
+
+- 고려요소 
+	- 실적발표 - 직접적으로 주가에 영향을 미치는 요소이다. 그러나 우리는 실적을 예상할 뿐이지 실적이 오를지 떨어질지는 알 수 없다. 분기별 실적 발표일을 항상 체크해두자. 주가가 크게 오르거나 떨어질 수 있는 분기점이다. 
+	- 기업의 새로운 제품 라인업 출시 - 대부분 호재로 작용하나 그 영향은 미미할 수도 있다. ex) 기아자동차 스팅어 출시 
+	- 기업 구조변화 - 구조조정, 청산, 합병 등 ex) 금호타이어 매각 이슈 
+	- 외국인 - 이전에는 대형 증권사에서 시장에 진입했으나 최근에는 소형 헤지펀드등 다양한 외국인들이 참여하여 이제는 잡주도 사는 실정이다.  
+	- 언론 매체 - 유동성을 더 크게 해주는 요소이다. 언론에서 줄곧 다루는 종목은 돈을 크게 잃거나 벌 수 있는 기회가 된다. 
+
+```
+1분기 실적 발표일- 3월30일 까지의 실적을  5월 15일 까지 발표.
+
+2분기 실적 발표일- 6월30일 까지의 실적을  8월15일 까지 발표.
+
+3분기 실적 발표일- 9월30일 까지의 실적을  11월15일 까지 발표.
+
+4분기 실적 발표일 12월30일 까지의 실적을 후년 3월 30일 까지 발표.
+[출처] 주식 기업 분기별 실적발표일.|작성자 업타워
+```
+
 
 ----
 ### 6. 재귀성 이론 Reflexibility Theory by George Soros
