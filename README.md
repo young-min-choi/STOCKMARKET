@@ -15,6 +15,11 @@ Index
 ####7. 소로스 이론으로 살펴보는 한진해운사태 
 ####8. 주식 종목 추천 
 ####9. Markov Chain and its Application to Stock Market __(advanced)__
+####10. 주식 매매 로그 
+####11. Basics of Economics
+- Recession
+- PPP
+- CIVETS
 
 ----
 ###1. What is Stock?
@@ -30,6 +35,12 @@ Index
 주식은 자본주의의 핵심요소이다. 주식을 공부하게 되면 자본주의의 메커니즘을 깨닫게 될 수 있다. 기업이 어떻게 운영되는지를 아는 것이 핵심적이기 때문이다. 추가로 기본적인 경제적인 지식과 각 산업에 대한 폭 넓은 이해 등이 필요하므로 경제에 대한 많은 공부를 할 수 있다. 부동산의 경우 기본적인 매매가가 높기 때문에 자본금이 충분하지 않은 개인이 접근하기가 어렵다. 그리고 부동산이라는 한정된 분야에 비해 주식은 산업 전반에 걸쳐 있으며 이에 따라 자신의 관심분야에 집중할 수 있다. 또한 주식은 각종 모든 지수가 인터넷에 공개되어 있으므로 비교적 정보의 비대칭성이 덜하다. 
 
 주식을 통해 경제 전반을 이해하고, 투자의 기본적인 마인드와 태도를 연습함으로써 더 나은 삶을 영위하는 것이 가능하다. 다만 투기가 아닌 본인만의 객관적인 시각에 기반하여 투자하는 연습을 해야하며 그 과정에서 정신적으로 흔들리지 않아야 할것이다. 
+
+-  경제학이란? What is Economics?
+	- Economics is basically the study of human interaction on the exchange and utilization of scarce resources.
+	- You add up a lot of this two-party interaction and you have a"market".
+	- Combine a lot of these markets and you have an "economy".
+
 
 - 주식이란? 
 
@@ -528,6 +539,17 @@ Spoon boy: Then you’ll see, that it is not the spoon that bends, it is only yo
 	- 비츠로시스 
 	- 에이택 
 
+<span style="color:tomato;"> KT&G (B+) </span>
+
+- KT&G
+
+
+
+- 건설분야 
+	- 건설의 향후 가장 중요한 키워드는 수익성
+	- 수익성 다변화가 가능할것인가?
+		- 시장다변화
+		- 상품다변화  
 
 ---
 ####9. Markov Chain and its Application to Stock Market __(advanced)__
@@ -562,5 +584,42 @@ Following is the Gold Price Chart in the Korean market.
 What affects the price of Gold? Gold is one of the prominent areas that Soros's Theory can be applied. 
 What makes gold even more subject to "reflexive" processes than most other investments is that __there are no market forces that tend to pull it back down.__
 
+---
+####10. 주식매매 로그 
 
+- 2017년 2월 9일 / 136주 36,650 / 기아차  
+	- 기아차 주가는 환율 10원이 떨어지면 800억 정도의 손실을 본다고 한다. 
+	- 현재 트럼프가 달러약세 정책을 추진하고 있는 중이다. 
+	- 41,000원대 에서 35,000대로 15% 가량 폭락한 상황. (3년 최저가에 해당)
+	- 네이버 종목토론에서는 저점을 다지며 상승할 것을 기대하는중. 
+	- “스포츠 세단 신차인 스팅어(Stinger)는 디트로이트 모터쇼에서 양산차 부문 최고 디자인상을 수상하는 등 해외에서 호평받았으며 5월 내수 출시 예상된다”고 했다. 
+	- 악질 노조 문제로 고전. 
+	- 3% 수익이 가능한가?
+	-  __38000__ 에 매도 
+	
+- 2017년 4월 7일 / 현대건설 / 48,850 150주
+	- 부채비율 144%로 꾸준히 감소하는 추세(14년 12월 164%, 15년 12월 159%) 
+	- 영업이익률 5%대 
+	- 현재 전반적으로 해외수주가 극히 낮은 상황 (4월 25일기준)
+	- 이란의 경제가 개방되면서 총 30조 규모의 건설 프로젝트가 발주될 상황(4월 25일 상황)
+	- 전반적인 시장 컨센선스는 65,000~80,000 (출처: http://finance.naver.com/item/news_read.nhn?article_id=0003981607&office_id=277&code=000720&page=)
+	- **전반적으로 미디어에서 1분기 영업이익 호조를 강력하게 예상하는 상황**
+	
+---
+####11. Basics of Economics
+
+- Recession 
+	- Recession happens when people spend less. 
+
+- 5 stages of national economy 
+	- In the first stage 
+		- **Countries are poor and think they are poor.** 
+		- They have very low incomes and don't waste their money because they value it alot. 
+	- In the second stage (Vietnam maybe?) 
+		- **Countries are rich but they think they are poor.**
+		
+- PPP
+> Purchasing power parity (PPP) is an economic theory that states that the exchange rate between two currencies equal the ratio of the currencies' respective purchasing power. Theories that invoke purchasing power parity assume that in some circumstances (for example, as a long-run tendency) it would cost exactly the same number of, for example, US dollars to buy euros and then to use the proceeds to buy a market basket of goods as it would cost to use those dollars directly in purchasing the market basket of goods. A fall in either currency's purchasing power would lead to a proportional decrease in that currency's valuation on the foreign exchange market.
+- CIVETS
+>The CIVETS are six favored emerging markets countries – Colombia, Indonesia, Vietnam, Egypt, Turkey and South Africa.[1] These countries are favored for several reasons, such as "a diverse and dynamic economy" and "a young, growing population".[2] This list is comparable to the Next Eleven, devised by Jim O'Neill of Goldman Sachs. 
 
