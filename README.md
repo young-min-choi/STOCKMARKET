@@ -20,6 +20,8 @@ Index
 - Recession
 - PPP
 - CIVETS
+- Split off(인적분할/물적분할)
+- 지주회사 (holding company)
 
 ----
 ###1. What is Stock?
@@ -604,9 +606,16 @@ What makes gold even more subject to "reflexive" processes than most other inves
 	- 이란의 경제가 개방되면서 총 30조 규모의 건설 프로젝트가 발주될 상황(4월 25일 상황)
 	- 전반적인 시장 컨센선스는 65,000~80,000 (출처: http://finance.naver.com/item/news_read.nhn?article_id=0003981607&office_id=277&code=000720&page=)
 	- **전반적으로 미디어에서 1분기 영업이익 호조를 강력하게 예상하는 상황**
+	- as of April 28th, 영업이익은 2280억원으로 전년대비 10%증가 했으나 매출액은 4조 1297억원으로 전년동기대비 3.7%감소 
+	- 주가 3.8% 감소 in the morning of April 28th 
+	 
 	
 ---
 ####11. Basics of Economics
+
+- Liqudity 
+	- **Liqudity is the thing that moves the market.**
+	- 
 
 - Recession 
 	- Recession happens when people spend less. 
@@ -620,6 +629,43 @@ What makes gold even more subject to "reflexive" processes than most other inves
 		
 - PPP
 > Purchasing power parity (PPP) is an economic theory that states that the exchange rate between two currencies equal the ratio of the currencies' respective purchasing power. Theories that invoke purchasing power parity assume that in some circumstances (for example, as a long-run tendency) it would cost exactly the same number of, for example, US dollars to buy euros and then to use the proceeds to buy a market basket of goods as it would cost to use those dollars directly in purchasing the market basket of goods. A fall in either currency's purchasing power would lead to a proportional decrease in that currency's valuation on the foreign exchange market.
+
+
 - CIVETS
 >The CIVETS are six favored emerging markets countries – Colombia, Indonesia, Vietnam, Egypt, Turkey and South Africa.[1] These countries are favored for several reasons, such as "a diverse and dynamic economy" and "a young, growing population".[2] This list is comparable to the Next Eleven, devised by Jim O'Neill of Goldman Sachs. 
 
+- Split off (기업분할)
+	- 기업분할은 물적분할과 인적분할로 나뉠 수 있다. 
+	- 분할은 다음과 같은 이득을 가져 올 수 있다.
+		- 매각이 쉽지 않은 사업을 따로 분사해 주식가치를 높이고 매각할 가능성이 높아짐
+		- 효율적인 사업경영관리(우량사업과 비우량사업 혹은 비핵심사업 나눔)  
+		- 위험도가 높은 사업에 관해 리스크 헤지를 할 수 있음
+		- M&A(인수합병으로 규모의 경제 실현)와 반대로 몸집을 줄이는 것  
+		- 구조조정이 쉬워진다. 
+		- 사업의 독립성이 중요해지는 경우 
+
+	- 물적분할 
+		- 자회사의 지분을 모회사(분할회사)가 100%보유하는 것 
+		- 새로운 기업이 생기는 것이 아니며 모회사의 자산은 그대로다.
+		- 사업매각 가능성을 높일 수 있다. 
+		
+	- 인적분할
+		- 자회사와 분할회사의 주식을 순자산비율로 나누는 것(순자산의 비율은 모회사가 정한다.)
+		- 지주회사로 가기 위한 단계 
+		- 물적분할과는 다르게 새로운 회사가 생기는 것으로 볼 수 있다. 
+		
+-  지주회사 
+	- 지주회사의 사례 
+		- 신세계의 백화점과 이마트(할인점사업) 분할 
+		- GE와 구글 
+		- 삼성전자 지주회사 전환 시도 (기업 총수인 이재용의 부재로 백지화)
+		
+		
+	- 지주회사전환 이유 
+		- **전략적 경영기능과 사업기능을 분리**  
+		- - 재무제표가 따로 나오므로 이에 따라 경영진 실적평가 등이 쉬워진다. 
+		- 경영 및 소유구조의 투명성 확보 (순환출자에 비해) 
+	
+	- 지주회사 특징 
+		- 지주회사의 인력은 주로 재무, 기획, 법무 등으로 구성
+		- 순전히 지주회사의 역할만 하는 순수지주회사와 사업지주회사로 나눌 수가 있다. 
