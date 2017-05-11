@@ -17,6 +17,8 @@ Index
 ####9. Markov Chain and its Application to Stock Market __(advanced)__
 ####10. 주식 매매 로그 
 ####11. Basics of Economics
+####12. Volume거래량 
+
 - Recession
 - PPP
 - CIVETS
@@ -608,7 +610,11 @@ What makes gold even more subject to "reflexive" processes than most other inves
 	- **전반적으로 미디어에서 1분기 영업이익 호조를 강력하게 예상하는 상황**
 	- as of April 28th, 영업이익은 2280억원으로 전년대비 10%증가 했으나 매출액은 4조 1297억원으로 전년동기대비 3.7%감소 
 	- 주가 3.8% 감소 in the morning of April 28th 
-	 
+
+	- 거래량 
+		- 4월 최저거래량: 161,549 / 72,469,000 (삼성전자 104,495 / 95,673,000)
+		- 4월 최대거래량: 799,507 (삼성전자 460,645)
+
 	
 ---
 ####11. Basics of Economics
@@ -669,3 +675,11 @@ What makes gold even more subject to "reflexive" processes than most other inves
 	- 지주회사 특징 
 		- 지주회사의 인력은 주로 재무, 기획, 법무 등으로 구성
 		- 순전히 지주회사의 역할만 하는 순수지주회사와 사업지주회사로 나눌 수가 있다. 
+		
+---
+		
+#### 12. 거래량
+
+> 거래량이 주가를 선행한다. (Joseph Granville)
+
+거래량은 실직적으로 주가 움직임의 모멘텀을 결정하는 중요한 요소이다. 아무리 어떤 주가의 펀더멘탈이 우수하다고 해도 거래량 자체가 없다면 주가는 절대 오르지 않는다.
