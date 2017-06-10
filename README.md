@@ -591,7 +591,7 @@ What makes gold even more subject to "reflexive" processes than most other inves
 ---
 ####10. 주식매매 로그 
 
-- 2017년 2월 9일 / 136주 36,650 / 기아차  
+### 2017년 2월 9일 / 136주 36,650 / 기아차  
 	- 기아차 주가는 환율 10원이 떨어지면 800억 정도의 손실을 본다고 한다. 
 	- 현재 트럼프가 달러약세 정책을 추진하고 있는 중이다. 
 	- 41,000원대 에서 35,000대로 15% 가량 폭락한 상황. (3년 최저가에 해당)
@@ -601,7 +601,7 @@ What makes gold even more subject to "reflexive" processes than most other inves
 	- 3% 수익이 가능한가?
 	-  __38000__ 에 매도 
 	
-- 2017년 4월 7일 / 현대건설 / 48,850 150주
+### 2017년 4월 7일 / 현대건설 / 48,850 150주
 	- 부채비율 144%로 꾸준히 감소하는 추세(14년 12월 164%, 15년 12월 159%) 
 	- 영업이익률 5%대 
 	- 현재 전반적으로 해외수주가 극히 낮은 상황 (4월 25일기준)
@@ -614,8 +614,39 @@ What makes gold even more subject to "reflexive" processes than most other inves
 	- 거래량 
 		- 4월 최저거래량: 161,549 / 72,469,000 (삼성전자 104,495 / 95,673,000)
 		- 4월 최대거래량: 799,507 (삼성전자 460,645)
+		
+	- June 5th, 2017 일괄 매매 47,600원선 
+		- 주가 이후 소폭 하락 중 
+		- 국제 유가가 계속 횡보중 
+		- http://www.nasdaq.com/markets/crude-oil.aspx?timeframe=18m 유가확인 싸이트 
+		> Light and sweet forms of crude oil are heavily prized while heavy sour types of fuel often trade at a discount to their more in-demand. With these two key factors, investors can begin to price these different types of oil on the world market. Currently, there are two major benchmarks for world oil prices, West Texas Intermediate (WTI for short) and Brent crude oil. Both are light, sweet crude oils although WTI is generally sweeter and lighter than its European counterpart. As a result of this, WTI often trades at a premium, usually by just a few dollars a barrel. However, thanks to a Libyan crisis, which has decreased the supply of light, sweet crude in the European region, and a supply glut at the main storage facility of WTI in Oklahoma, the premium/discount situation has flipped and now Brent is more expensive than WTI.
+		- Crude oil의 종류로는 크게 브랜트 유와 WTI가 있으며 이 둘은 API지수와 sweet or sour index(sulfur content ratio)에 따라 premium으로 분류되며 유가를 말할 때 항상 언급되는 원유의 종류이다. 
+		- 14년 6월에 배럴당 100달러, 최저가는 16년 1월에 29달러
+		- ** 건설주에 있어서 중요한 것은 해외 특히 중동 지역의 수주인데 이는 국제유가와 매우 밀접히 연관된다.**  
 
-	
+### SK하이닉스 
+	- 6월 7일 57,000원 150주 매수
+	- 주가 흐름이 매우 강력하고 순탄해 보인다. 
+![](https://ssl.pstatic.net/imgfinance/chart/mobile/area/year3/000660_search.png?sidcode=1398073782866)  
+	- 어디에서 팔 것인가? 
+	- 지금 주가를 견인하는 요소가 무엇인가? 
+		- SK하이닉스 도시바 인수에 올인하는 형세. (웨스턴디지털, KKR, 중국계 폭스콘, 하이닉스 & 베인 캐피탈) 
+		- 경영권 인수 vs 지분 인수 
+		- 현재 판이 커지는 상황에서 남의 돈(베인캐피탈)을 끌여서라도 시장점유율이 있는 기업을 인수하려는 것.
+	-  
+
+
+### 아모레퍼시픽 
+	- 매출 비율은 화장품이 90% 기타 생활용품 및 설록수는 10%미만에 해당. 
+	- 국내 화장품 시장 성장세는 둔화할 것으로 예상되나 면세 등에 의해 소폭 성장할 여력이 있는 것으로 판단. 
+
+![](https://ssl.pstatic.net/imgfinance/chart/mobile/area/month3/090430_search.png?sidcode=1398073782866) 
+
+	- 주가 5월초에 25% 급등 후 서서히 하락 중 (as of June 5th, 2017)
+	- 3월초 싸드 악재가 강하게 작용. (30만에서 24만으로 하락) 
+	> 함승희 미래에셋대우 애널리스트는 "해외사업 포트폴리오를 보면 중국 의존도가 높은데다 국내 내수환경 악화가 지속되고 있다는 점이 여전한 리스크 요인"이라고 덧붙였다. 
+	- 
+
 ---
 ####11. Basics of Economics
 
@@ -683,3 +714,6 @@ What makes gold even more subject to "reflexive" processes than most other inves
 > 거래량이 주가를 선행한다. (Joseph Granville)
 
 거래량은 실직적으로 주가 움직임의 모멘텀을 결정하는 중요한 요소이다. 아무리 어떤 주가의 펀더멘탈이 우수하다고 해도 거래량 자체가 없다면 주가는 절대 오르지 않는다.
+
+
+- 거래량 지수로는 무엇이 있는가? 
