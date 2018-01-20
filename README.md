@@ -555,6 +555,19 @@ Spoon boy: Then you’ll see, that it is not the spoon that bends, it is only yo
 		- 시장다변화
 		- 상품다변화  
 
+
+<span style="color:tomato;"> 아시아나항공 (B+) </span>
+	- 환율문제
+	- 유가문제
+	- Cycling이심한종목
+	- 기관외인이관심을가지는종목
+	- 차트가톱니모양일때(4,5%등락반복
+	-
+
+<span style="color:tomato;"> 대원미디어 (A-) </span>
+	- 저점확인할것
+	
+
 ---
 ####9. Markov Chain and its Application to Stock Market __(advanced)__
 
